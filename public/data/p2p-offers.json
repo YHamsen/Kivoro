@@ -1,0 +1,224 @@
+{
+  "offers": [
+    {
+      "id": "1",
+      "merchant": {
+        "name": "CryptoKing777",
+        "avatar": "C",
+        "verified": true,
+        "institutional": false,
+        "rating": 4.9,
+        "orders": 1247,
+        "completionRate": 99.8
+      },
+      "price": 0.859,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 50000,
+      "limits": { "min": 100, "max": 5000 },
+      "paymentMethods": ["Revolut", "SEPA Instant"],
+      "timeLimit": 15,
+      "isOnline": true
+    },
+    {
+      "id": "2",
+      "merchant": {
+        "name": "Iriska7r",
+        "avatar": "I",
+        "verified": true,
+        "institutional": false,
+        "rating": 4.8,
+        "orders": 892,
+        "completionRate": 100
+      },
+      "price": 0.861,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 25000,
+      "limits": { "min": 50, "max": 2500 },
+      "paymentMethods": ["Wise", "Virement bancaire"],
+      "timeLimit": 30,
+      "isOnline": true
+    },
+    {
+      "id": "3",
+      "merchant": {
+        "name": "VARADERO",
+        "avatar": "V",
+        "verified": true,
+        "institutional": true,
+        "rating": 5.0,
+        "orders": 2150,
+        "completionRate": 99.9
+      },
+      "price": 0.863,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 100000,
+      "limits": { "min": 500, "max": 50000 },
+      "paymentMethods": ["SEPA Instant", "Virement bancaire", "Revolut"],
+      "timeLimit": 15,
+      "isOnline": true
+    },
+    {
+      "id": "4",
+      "merchant": {
+        "name": "Lunio-OTC",
+        "avatar": "L",
+        "verified": true,
+        "institutional": true,
+        "rating": 4.9,
+        "orders": 533,
+        "completionRate": 99
+      },
+      "price": 0.800,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 200000,
+      "limits": { "min": 9000, "max": 15000 },
+      "paymentMethods": ["Western Union"],
+      "timeLimit": 30,
+      "isOnline": false
+    },
+    {
+      "id": "5",
+      "merchant": {
+        "name": "Mena_crypto",
+        "avatar": "M",
+        "verified": true,
+        "institutional": false,
+        "rating": 4.7,
+        "orders": 114,
+        "completionRate": 64
+      },
+      "price": 0.781,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 75000,
+      "limits": { "min": 9000, "max": 156200 },
+      "paymentMethods": ["Revolut", "Transfers with s...", "Virement bancaire", "Wise", "SEPA Instant"],
+      "timeLimit": 30,
+      "isOnline": true
+    },
+    {
+      "id": "6",
+      "merchant": {
+        "name": "EuroTrader",
+        "avatar": "E",
+        "verified": true,
+        "institutional": false,
+        "rating": 4.6,
+        "orders": 356,
+        "completionRate": 98.2
+      },
+      "price": 0.865,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 30000,
+      "limits": { "min": 200, "max": 3000 },
+      "paymentMethods": ["PayPal", "Revolut"],
+      "timeLimit": 20,
+      "isOnline": true
+    },
+    {
+      "id": "7",
+      "merchant": {
+        "name": "CryptoInstitute",
+        "avatar": "CI",
+        "verified": true,
+        "institutional": true,
+        "rating": 4.95,
+        "orders": 3200,
+        "completionRate": 99.7
+      },
+      "price": 0.867,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 500000,
+      "limits": { "min": 1000, "max": 100000 },
+      "paymentMethods": ["SEPA Instant", "Swift Transfer"],
+      "timeLimit": 10,
+      "isOnline": true
+    },
+    {
+      "id": "8",
+      "merchant": {
+        "name": "FastExchange",
+        "avatar": "F",
+        "verified": true,
+        "institutional": false,
+        "rating": 4.4,
+        "orders": 789,
+        "completionRate": 96.8
+      },
+      "price": 0.855,
+      "currency": "EUR",
+      "crypto": "USDT",
+      "quantity": 15000,
+      "limits": { "min": 50, "max": 1500 },
+      "paymentMethods": ["Skrill", "Neteller"],
+      "timeLimit": 25,
+      "isOnline": true
+    },
+    {
+      "id": "9",
+      "merchant": {
+        "name": "ChinaTrader88",
+        "avatar": "CT",
+        "verified": true,
+        "institutional": false,
+        "rating": 4.8,
+        "orders": 1567,
+        "completionRate": 99.2
+      },
+      "price": 7.18,
+      "currency": "CNY",
+      "crypto": "USDT",
+      "quantity": 80000,
+      "limits": { "min": 500, "max": 50000 },
+      "paymentMethods": ["Alipay", "WeChat Pay", "Bank Transfer"],
+      "timeLimit": 15,
+      "isOnline": true
+    },
+    {
+      "id": "10",
+      "merchant": {
+        "name": "BeijingCrypto",
+        "avatar": "BC",
+        "verified": true,
+        "institutional": true,
+        "rating": 4.9,
+        "orders": 2845,
+        "completionRate": 99.8
+      },
+      "price": 7.19,
+      "currency": "CNY",
+      "crypto": "USDT",
+      "quantity": 200000,
+      "limits": { "min": 1000, "max": 100000 },
+      "paymentMethods": ["Bank Transfer", "Alipay"],
+      "timeLimit": 10,
+      "isOnline": true
+    },
+    {
+      "id": "11",
+      "merchant": {
+        "name": "DragonExchange",
+        "avatar": "D",
+        "verified": true,
+        "institutional": false,
+        "rating": 4.7,
+        "orders": 987,
+        "completionRate": 98.5
+      },
+      "price": 7.17,
+      "currency": "CNY",
+      "crypto": "USDT",
+      "quantity": 45000,
+      "limits": { "min": 200, "max": 20000 },
+      "paymentMethods": ["WeChat Pay", "Alipay", "UnionPay"],
+      "timeLimit": 20,
+      "isOnline": true
+    }
+  ]
+}

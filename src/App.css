@@ -1,0 +1,44 @@
+#root {
+  margin: 0 auto;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #0a0a0a;
+}
+
+/* Ensure full height layout */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Custom focus styles for better accessibility */
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid #F7931A;
+  outline-offset: 2px;
+}
+
+/* Smooth animations for page transitions */
+.page-enter {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.page-exit {
+  opacity: 1;
+}
+
+.page-exit-active {
+  opacity: 0;
+  transform: translateY(-20px);
+  transition: opacity 300ms, transform 300ms;
+}

@@ -1,0 +1,186 @@
+{
+  "favorites": [
+    {
+      "symbol": "BTC/USDT",
+      "price": "103603.7",
+      "change": "-0.99",
+      "changePercent": "-0.99",
+      "volume": "999.30M USDT",
+      "marketCap": "2.05T",
+      "isFavorite": true
+    },
+    {
+      "symbol": "BTC/CNY",
+      "price": "746,328",
+      "change": "-7,123",
+      "changePercent": "-0.94",
+      "volume": "7.2B CNY",
+      "marketCap": "14.8T CNY",
+      "isFavorite": true
+    },
+    {
+      "symbol": "ETH/USDT", 
+      "price": "2428.90",
+      "change": "-3.61",
+      "changePercent": "-3.61",
+      "volume": "433.70M USDT",
+      "marketCap": "292.1B",
+      "isFavorite": true
+    },
+    {
+      "symbol": "SOL/USDT",
+      "price": "141.04",
+      "change": "-3.26",
+      "changePercent": "-3.26", 
+      "volume": "171.92M USDT",
+      "marketCap": "67.8B",
+      "isFavorite": true
+    }
+  ],
+  "hot": [
+    {
+      "symbol": "BTC/USDT",
+      "price": "103603.7",
+      "change": "-0.99",
+      "changePercent": "-0.99",
+      "volume": "999.30M USDT",
+      "marketCap": "2.05T"
+    },
+    {
+      "symbol": "ETH/USDT",
+      "price": "2428.90", 
+      "change": "-3.61",
+      "changePercent": "-3.61",
+      "volume": "433.70M USDT",
+      "marketCap": "292.1B"
+    },
+    {
+      "symbol": "DOGE/USDT",
+      "price": "0.3247",
+      "change": "+5.82",
+      "changePercent": "+5.82",
+      "volume": "892.4M USDT",
+      "marketCap": "47.8B"
+    },
+    {
+      "symbol": "ADA/USDT",
+      "price": "0.8934",
+      "change": "+2.14",
+      "changePercent": "+2.14",
+      "volume": "267.1M USDT", 
+      "marketCap": "31.2B"
+    }
+  ],
+  "new": [
+    {
+      "symbol": "BTC/CNY",
+      "price": "746,328",
+      "change": "-7,123",
+      "changePercent": "-0.94",
+      "volume": "7.2B CNY",
+      "marketCap": "14.8T CNY"
+    },
+    {
+      "symbol": "ETH/CNY",
+      "price": "17,486",
+      "change": "-260",
+      "changePercent": "-1.47",
+      "volume": "3.1B CNY",
+      "marketCap": "2.1T CNY"
+    },
+    {
+      "symbol": "PEPE/USDT",
+      "price": "0.00001847",
+      "change": "+12.34",
+      "changePercent": "+12.34",
+      "volume": "456.7M USDT",
+      "marketCap": "7.8B"
+    },
+    {
+      "symbol": "SHIB/USDT",
+      "price": "0.00002156",
+      "change": "+8.92",
+      "changePercent": "+8.92",
+      "volume": "234.5M USDT",
+      "marketCap": "12.7B"
+    }
+  ],
+  "gainers": [
+    {
+      "symbol": "DOGE/USDT",
+      "price": "0.3247",
+      "change": "+5.82",
+      "changePercent": "+5.82",
+      "volume": "892.4M USDT",
+      "marketCap": "47.8B"
+    },
+    {
+      "symbol": "ADA/USDT",
+      "price": "0.8934",
+      "change": "+2.14",
+      "changePercent": "+2.14",
+      "volume": "267.1M USDT",
+      "marketCap": "31.2B"
+    },
+    {
+      "symbol": "MATIC/USDT",
+      "price": "0.4521",
+      "change": "+4.67",
+      "changePercent": "+4.67",
+      "volume": "189.3M USDT",
+      "marketCap": "4.5B"
+    }
+  ],
+  "losers": [
+    {
+      "symbol": "ETH/USDT",
+      "price": "2428.90",
+      "change": "-3.61", 
+      "changePercent": "-3.61",
+      "volume": "433.70M USDT",
+      "marketCap": "292.1B"
+    },
+    {
+      "symbol": "SOL/USDT",
+      "price": "141.04",
+      "change": "-3.26",
+      "changePercent": "-3.26",
+      "volume": "171.92M USDT",
+      "marketCap": "67.8B"
+    },
+    {
+      "symbol": "BTC/USDT",
+      "price": "103603.7",
+      "change": "-0.99",
+      "changePercent": "-0.99",
+      "volume": "999.30M USDT",
+      "marketCap": "2.05T"
+    }
+  ],
+  "volume": [
+    {
+      "symbol": "BTC/USDT",
+      "price": "103603.7",
+      "change": "-0.99",
+      "changePercent": "-0.99",
+      "volume": "999.30M USDT",
+      "marketCap": "2.05T"
+    },
+    {
+      "symbol": "DOGE/USDT", 
+      "price": "0.3247",
+      "change": "+5.82",
+      "changePercent": "+5.82",
+      "volume": "892.4M USDT",
+      "marketCap": "47.8B"
+    },
+    {
+      "symbol": "ETH/USDT",
+      "price": "2428.90",
+      "change": "-3.61",
+      "changePercent": "-3.61",
+      "volume": "433.70M USDT",
+      "marketCap": "292.1B"
+    }
+  ]
+}

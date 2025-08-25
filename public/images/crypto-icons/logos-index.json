@@ -1,0 +1,356 @@
+{
+  "generated": 1750987484.910572,
+  "total_logos": 50,
+  "logos": {
+    "BAL": {
+      "filename": "bal-icon.png",
+      "size": 5255,
+      "modified": 1750987482.3960457,
+      "extension": ".png",
+      "path": "/images/crypto-icons/bal-icon.png"
+    },
+    "FTM": {
+      "filename": "ftm-icon.svg",
+      "size": 284,
+      "modified": 1750987466.3599174,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/ftm-icon.svg"
+    },
+    "BLUR": {
+      "filename": "blur-icon.png",
+      "size": 2576,
+      "modified": 1750987483.8360572,
+      "extension": ".png",
+      "path": "/images/crypto-icons/blur-icon.png"
+    },
+    "BTT": {
+      "filename": "btt-icon.png",
+      "size": 3733,
+      "modified": 1750987484.409062,
+      "extension": ".png",
+      "path": "/images/crypto-icons/btt-icon.png"
+    },
+    "PAX": {
+      "filename": "pax-icon.png",
+      "size": 6178,
+      "modified": 1750987455.6468318,
+      "extension": ".png",
+      "path": "/images/crypto-icons/pax-icon.png"
+    },
+    "MATIC": {
+      "filename": "matic-icon.png",
+      "size": 6117,
+      "modified": 1750987466.929922,
+      "extension": ".png",
+      "path": "/images/crypto-icons/matic-icon.png"
+    },
+    "CRV": {
+      "filename": "crv-icon.png",
+      "size": 5998,
+      "modified": 1750987469.9739463,
+      "extension": ".png",
+      "path": "/images/crypto-icons/crv-icon.png"
+    },
+    "NEAR": {
+      "filename": "near-icon.svg",
+      "size": 284,
+      "modified": 1750987467.7249284,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/near-icon.svg"
+    },
+    "USDT": {
+      "filename": "usdt-icon.jpg",
+      "size": 47503,
+      "modified": 1750986689.4487169,
+      "extension": ".jpg",
+      "path": "/images/crypto-icons/usdt-icon.jpg"
+    },
+    "BTC": {
+      "filename": "btc-icon.png",
+      "size": 59285,
+      "modified": 1750986689.4487169,
+      "extension": ".png",
+      "path": "/images/crypto-icons/btc-icon.png"
+    },
+    "AUTO": {
+      "filename": "auto-icon.png",
+      "size": 2448,
+      "modified": 1750987480.1110275,
+      "extension": ".png",
+      "path": "/images/crypto-icons/auto-icon.png"
+    },
+    "ETH": {
+      "filename": "eth-icon.png",
+      "size": 125641,
+      "modified": 1750986689.4497168,
+      "extension": ".png",
+      "path": "/images/crypto-icons/eth-icon.png"
+    },
+    "API3": {
+      "filename": "api3-icon.png",
+      "size": 634,
+      "modified": 1750987475.905994,
+      "extension": ".png",
+      "path": "/images/crypto-icons/api3-icon.png"
+    },
+    "KCS": {
+      "filename": "kcs-icon.png",
+      "size": 2064,
+      "modified": 1750987461.4828784,
+      "extension": ".png",
+      "path": "/images/crypto-icons/kcs-icon.png"
+    },
+    "APT": {
+      "filename": "apt-icon.svg",
+      "size": 284,
+      "modified": 1750987476.7760007,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/apt-icon.svg"
+    },
+    "COMP": {
+      "filename": "comp-icon.png",
+      "size": 5313,
+      "modified": 1750987469.3739417,
+      "extension": ".png",
+      "path": "/images/crypto-icons/comp-icon.png"
+    },
+    "GUSD": {
+      "filename": "gusd-icon.png",
+      "size": 2706,
+      "modified": 1750987454.552823,
+      "extension": ".png",
+      "path": "/images/crypto-icons/gusd-icon.png"
+    },
+    "ALGO": {
+      "filename": "algo-icon.png",
+      "size": 4013,
+      "modified": 1750987463.935898,
+      "extension": ".png",
+      "path": "/images/crypto-icons/algo-icon.png"
+    },
+    "OKB": {
+      "filename": "okb-icon.png",
+      "size": 1680,
+      "modified": 1750987462.8898897,
+      "extension": ".png",
+      "path": "/images/crypto-icons/okb-icon.png"
+    },
+    "SOL": {
+      "filename": "sol-icon.jpg",
+      "size": 31342,
+      "modified": 1750986689.4497168,
+      "extension": ".jpg",
+      "path": "/images/crypto-icons/sol-icon.jpg"
+    },
+    "LINK": {
+      "filename": "link-icon.png",
+      "size": 5120,
+      "modified": 1750987470.545951,
+      "extension": ".png",
+      "path": "/images/crypto-icons/link-icon.png"
+    },
+    "GT": {
+      "filename": "gt-icon.svg",
+      "size": 284,
+      "modified": 1750987460.3538694,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/gt-icon.svg"
+    },
+    "AAVE": {
+      "filename": "aave-icon.png",
+      "size": 5111,
+      "modified": 1750987468.8079371,
+      "extension": ".png",
+      "path": "/images/crypto-icons/aave-icon.png"
+    },
+    "AUDIO": {
+      "filename": "audio-icon.svg",
+      "size": 284,
+      "modified": 1750987479.4930224,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/audio-icon.svg"
+    },
+    "ARB": {
+      "filename": "arb-icon.svg",
+      "size": 284,
+      "modified": 1750987478.6240156,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/arb-icon.svg"
+    },
+    "AXS": {
+      "filename": "axs-icon.svg",
+      "size": 284,
+      "modified": 1750987480.936034,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/axs-icon.svg"
+    },
+    "LEO": {
+      "filename": "leo-icon.png",
+      "size": 7607,
+      "modified": 1750987462.0558832,
+      "extension": ".png",
+      "path": "/images/crypto-icons/leo-icon.png"
+    },
+    "USDC": {
+      "filename": "usdc-icon.jpg",
+      "size": 107310,
+      "modified": 1750986689.4497168,
+      "extension": ".jpg",
+      "path": "/images/crypto-icons/usdc-icon.jpg"
+    },
+    "ADA": {
+      "filename": "ada-icon.jpg",
+      "size": 41125,
+      "modified": 1750986689.4497168,
+      "extension": ".jpg",
+      "path": "/images/crypto-icons/ada-icon.jpg"
+    },
+    "DAI": {
+      "filename": "dai-icon.png",
+      "size": 4752,
+      "modified": 1750987453.9648185,
+      "extension": ".png",
+      "path": "/images/crypto-icons/dai-icon.png"
+    },
+    "AVAX": {
+      "filename": "avax-icon.png",
+      "size": 4910,
+      "modified": 1750987465.036907,
+      "extension": ".png",
+      "path": "/images/crypto-icons/avax-icon.png"
+    },
+    "DOT": {
+      "filename": "dot-icon.jpg",
+      "size": 60332,
+      "modified": 1750986689.4497168,
+      "extension": ".jpg",
+      "path": "/images/crypto-icons/dot-icon.jpg"
+    },
+    "YFI": {
+      "filename": "yfi-icon.png",
+      "size": 6101,
+      "modified": 1750987473.3709736,
+      "extension": ".png",
+      "path": "/images/crypto-icons/yfi-icon.png"
+    },
+    "BUSD": {
+      "filename": "busd-icon.svg",
+      "size": 284,
+      "modified": 1750987453.3898137,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/busd-icon.svg"
+    },
+    "SNX": {
+      "filename": "snx-icon.png",
+      "size": 4911,
+      "modified": 1750987471.6849601,
+      "extension": ".png",
+      "path": "/images/crypto-icons/snx-icon.png"
+    },
+    "BABYDOGE": {
+      "filename": "babydoge-icon.svg",
+      "size": 284,
+      "modified": 1750987481.7980409,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/babydoge-icon.svg"
+    },
+    "SUSHI": {
+      "filename": "sushi-icon.png",
+      "size": 7032,
+      "modified": 1750987472.2389646,
+      "extension": ".png",
+      "path": "/images/crypto-icons/sushi-icon.png"
+    },
+    "AR": {
+      "filename": "ar-icon.svg",
+      "size": 284,
+      "modified": 1750987477.7220085,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/ar-icon.svg"
+    },
+    "FTT": {
+      "filename": "ftt-icon.svg",
+      "size": 284,
+      "modified": 1750987459.4838624,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/ftt-icon.svg"
+    },
+    "BNB": {
+      "filename": "bnb-icon.png",
+      "size": 38777,
+      "modified": 1750986689.4497168,
+      "extension": ".png",
+      "path": "/images/crypto-icons/bnb-icon.png"
+    },
+    "MKR": {
+      "filename": "mkr-icon.png",
+      "size": 4704,
+      "modified": 1750987471.1209555,
+      "extension": ".png",
+      "path": "/images/crypto-icons/mkr-icon.png"
+    },
+    "AKITA": {
+      "filename": "akita-icon.svg",
+      "size": 284,
+      "modified": 1750987474.17598,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/akita-icon.svg"
+    },
+    "UNI": {
+      "filename": "uni-icon.png",
+      "size": 8294,
+      "modified": 1750987472.8009691,
+      "extension": ".png",
+      "path": "/images/crypto-icons/uni-icon.png"
+    },
+    "ALPHA": {
+      "filename": "alpha-icon.png",
+      "size": 1760,
+      "modified": 1750987474.9819865,
+      "extension": ".png",
+      "path": "/images/crypto-icons/alpha-icon.png"
+    },
+    "BAND": {
+      "filename": "band-icon.png",
+      "size": 5302,
+      "modified": 1750987482.9610503,
+      "extension": ".png",
+      "path": "/images/crypto-icons/band-icon.png"
+    },
+    "HUSD": {
+      "filename": "husd-icon.png",
+      "size": 4094,
+      "modified": 1750987455.1018274,
+      "extension": ".png",
+      "path": "/images/crypto-icons/husd-icon.png"
+    },
+    "CRO": {
+      "filename": "cro-icon.svg",
+      "size": 284,
+      "modified": 1750987458.6318557,
+      "extension": ".svg",
+      "path": "/images/crypto-icons/cro-icon.svg"
+    },
+    "HT": {
+      "filename": "ht-icon.png",
+      "size": 2696,
+      "modified": 1750987460.925874,
+      "extension": ".png",
+      "path": "/images/crypto-icons/ht-icon.png"
+    },
+    "ATOM": {
+      "filename": "atom-icon.png",
+      "size": 5267,
+      "modified": 1750987464.5159028,
+      "extension": ".png",
+      "path": "/images/crypto-icons/atom-icon.png"
+    },
+    "TUSD": {
+      "filename": "tusd-icon.png",
+      "size": 4404,
+      "modified": 1750987456.2078364,
+      "extension": ".png",
+      "path": "/images/crypto-icons/tusd-icon.png"
+    }
+  }
+}

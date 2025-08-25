@@ -1,0 +1,3582 @@
+{
+  "cryptos": {
+    "BTC": {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "category": "bitcoin",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ETH": {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "category": "ethereum",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "USDT": {
+      "symbol": "USDT",
+      "name": "Mantle Bridged USDT (Mantle)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35069/large/logo.png?1707291114",
+      "category": "stablecoin",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "XRP": {
+      "symbol": "XRP",
+      "name": "XRP",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1696501442",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "BNB": {
+      "symbol": "BNB",
+      "name": "BNB",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
+      "category": "exchange",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SOL": {
+      "symbol": "SOL",
+      "name": "Solana",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4128/large/solana.png?1718769756",
+      "category": "layer1",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "USDC": {
+      "symbol": "USDC",
+      "name": "Binance Bridged USDC (BNB Smart Chain)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35220/large/USDC.jpg?1707919050",
+      "category": "stablecoin",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "TRX": {
+      "symbol": "TRX",
+      "name": "TRON",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1094/large/tron-logo.png?1696502193",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "DOGE": {
+      "symbol": "DOGE",
+      "name": "Binance-Peg Dogecoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15768/large/dogecoin.png?1696515392",
+      "category": "meme",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "STETH": {
+      "symbol": "STETH",
+      "name": "Lido Staked Ether",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13442/large/steth_logo.png?1696513206",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ADA": {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/975/large/cardano.png?1696502090",
+      "category": "layer1",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "WBTC": {
+      "symbol": "WBTC",
+      "name": "Polygon Bridged WBTC (Polygon POS)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39530/large/wbtc.png?1722809402",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "HYPE": {
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "WSTETH": {
+      "symbol": "WSTETH",
+      "name": "Wrapped stETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/18834/large/wstETH.png?1696518295",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "BCH": {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932",
+      "category": "bitcoin",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SUI": {
+      "symbol": "SUI",
+      "name": "Sui",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/26375/large/sui-ocean-square.png?1727791290",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "LINK": {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "LEO": {
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/8418/large/leo-token.png?1696508607",
+      "category": "exchange",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "XLM": {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/100/large/fmpFRHHQ_400x400.jpg?1735231350",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "AVAX": {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12559/large/Avalanche_Circle_RedWhite_Trans.png?1696512369",
+      "category": "layer1",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "USDS": {
+      "symbol": "USDS",
+      "name": "USDS",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "TON": {
+      "symbol": "TON",
+      "name": "Toncoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/17980/large/photo_2024-09-10_17.09.00.jpeg?1725963446",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "WBT": {
+      "symbol": "WBT",
+      "name": "WhiteBIT Coin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SHIB": {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/11939/large/shiba.png?1696511800",
+      "category": "meme",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "WETH": {
+      "symbol": "WETH",
+      "name": "Polygon PoS Bridged WETH (Polygon POS)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39708/large/WETH.PNG?1723730343",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "LTC": {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/2/large/litecoin.png?1696501400",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "WEETH": {
+      "symbol": "WEETH",
+      "name": "Wrapped eETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33033/large/weETH.png?1701438396",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "BSC-USD": {
+      "symbol": "BSC-USD",
+      "name": "Binance Bridged USDT (BNB Smart Chain)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35021/large/USDT.png?1707233575",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "HBAR": {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/3688/large/hbar.png?1696504364",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "XMR": {
+      "symbol": "XMR",
+      "name": "Monero",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/69/large/monero_logo.png?1696501460",
+      "category": "privacy",
+      "bybit_supported": true
+    },
+    "BGB": {
+      "symbol": "BGB",
+      "name": "Bitget Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/11610/large/Bitget_logo.png?1736925727",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDE": {
+      "symbol": "USDE",
+      "name": "Ethena USDe",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33613/large/usde.png?1733810059",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "DOT": {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12171/large/polkadot.png?1696512008",
+      "category": "layer1",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "CBBTC": {
+      "symbol": "CBBTC",
+      "name": "Coinbase Wrapped BTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "PI": {
+      "symbol": "PI",
+      "name": "Pi Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "UNI": {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "PEPE": {
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776",
+      "category": "meme",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "AAVE": {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12645/large/aave-token-round.png?1720472354",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "DAI": {
+      "symbol": "DAI",
+      "name": "Polygon PoS Bridged DAI (Polygon POS)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39787/large/dai.png?1724110678",
+      "category": "stablecoin",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "APT": {
+      "symbol": "APT",
+      "name": "Aptos",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/26455/large/aptos_round.png?1696525528",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SUSDE": {
+      "symbol": "SUSDE",
+      "name": "Ethena Staked USDe",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33669/large/sUSDe-Symbol-Color.png?1716307680",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "OKB": {
+      "symbol": "OKB",
+      "name": "OKB",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4463/large/WeChat_Image_20220118095654.png?1696505053",
+      "category": "exchange",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "BUIDL": {
+      "symbol": "BUIDL",
+      "name": "BlackRock USD Institutional Digital Liquidity Fund",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png?1711013223",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "TAO": {
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ICP": {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "NEAR": {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/10365/large/near.jpg?1696510367",
+      "category": "layer1",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "CRO": {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599",
+      "category": "exchange",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "JITOSOL": {
+      "symbol": "JITOSOL",
+      "name": "Jito Staked SOL",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL-200.png?1696527060",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ETC": {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/453/large/ethereum-classic-logo.png?1696501717",
+      "category": "ethereum",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SUSDS": {
+      "symbol": "SUSDS",
+      "name": "sUSDS",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/52721/large/sUSDS_Coin.png?1734086971",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ONDO": {
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png?1696525656",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TKX": {
+      "symbol": "TKX",
+      "name": "Tokenize Xchange",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4984/large/TKX_-_Logo_-_RGB-15.png?1696505519",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USD1": {
+      "symbol": "USD1",
+      "name": "USD1",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54977/large/USD1_1000x1000_transparent.png?1749297002",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "MNT": {
+      "symbol": "MNT",
+      "name": "Mantle",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/30980/large/Mantle-Logo-mark.png?1739213200",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "KAS": {
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/25751/large/kaspa-icon-exchanges.png?1696524837",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "GT": {
+      "symbol": "GT",
+      "name": "Gate",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/8183/large/200X200.png?1735246724",
+      "category": "exchange",
+      "bybit_supported": true
+    },
+    "FTN": {
+      "symbol": "FTN",
+      "name": "Fasttoken",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28478/large/lightenicon_200x200.png?1696527472",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "TRUMP": {
+      "symbol": "TRUMP",
+      "name": "Official Trump",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ATOM": {
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1481/large/cosmos_hub.png?1696502525",
+      "category": "layer1",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "VET": {
+      "symbol": "VET",
+      "name": "VeChain",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1167/large/VET.png?1742383283",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "LBTC": {
+      "symbol": "LBTC",
+      "name": "Lombard Staked BTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39969/large/LBTC_Logo.png?1724959872",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "FET": {
+      "symbol": "FET",
+      "name": "Artificial Superintelligence Alliance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/5681/large/ASI.png?1719827289",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SKY": {
+      "symbol": "SKY",
+      "name": "Sky",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "POL": {
+      "symbol": "POL",
+      "name": "POL (ex-MATIC)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/32440/large/polygon.png?1698233684",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RENDER": {
+      "symbol": "RENDER",
+      "name": "Render",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ENA": {
+      "symbol": "ENA",
+      "name": "Ethena",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ARB": {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "FIL": {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12817/large/filecoin.png?1696512609",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ALGO": {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4380/large/download.png?1696504978",
+      "category": "layer1",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "FDUSD": {
+      "symbol": "FDUSD",
+      "name": "First Digital USD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31079/large/FDUSD_icon_black.png?1731097953",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "JLP": {
+      "symbol": "JLP",
+      "name": "Jupiter Perpetuals Liquidity Provider Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33094/large/jlp.png?1700631386",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDTB": {
+      "symbol": "USDTB",
+      "name": "USDtb",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/52804/large/USDtbSmall.png?1734344946",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "WLD": {
+      "symbol": "WLD",
+      "name": "Worldcoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "QNT": {
+      "symbol": "QNT",
+      "name": "Quant",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SEI": {
+      "symbol": "SEI",
+      "name": "Sei",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28205/large/Sei_Logo_-_Transparent.png?1696527207",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "KCS": {
+      "symbol": "KCS",
+      "name": "KuCoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1047/large/sa9z79.png?1696502152",
+      "category": "exchange",
+      "bybit_supported": true
+    },
+    "BNSOL": {
+      "symbol": "BNSOL",
+      "name": "Binance Staked SOL",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/40132/large/bnsol.png?1725968367",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDT0": {
+      "symbol": "USDT0",
+      "name": "USDT0",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "NEXO": {
+      "symbol": "NEXO",
+      "name": "NEXO",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/3695/large/CG-nexo-token-200x200_2x.png?1730414360",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "FLR": {
+      "symbol": "FLR",
+      "name": "Flare",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28624/large/FLR-icon200x200.png?1696527609",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "JUP": {
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/34188/large/jup.png?1704266489",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RETH": {
+      "symbol": "RETH",
+      "name": "Rocket Pool ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/20764/large/reth.png?1696520159",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "RSETH": {
+      "symbol": "RSETH",
+      "name": "Kelp DAO Restaked ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33800/large/Icon___Dark.png?1702991855",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SPX": {
+      "symbol": "SPX",
+      "name": "SPX6900",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31401/large/centeredcoin_%281%29.png?1737048493",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "INJ": {
+      "symbol": "INJ",
+      "name": "Injective",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12882/large/Other_200x200.png?1738782212",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "KAIA": {
+      "symbol": "KAIA",
+      "name": "Kaia",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39901/large/KAIA.png?1724734368",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BONK": {
+      "symbol": "BONK",
+      "name": "Bonk",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "STX": {
+      "symbol": "STX",
+      "name": "Stacks",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/2069/large/Stacks_Logo_png.png?1709979332",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TIA": {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31967/large/tia.jpg?1696530772",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "PYUSD": {
+      "symbol": "PYUSD",
+      "name": "PayPal USD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1696530039",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "S": {
+      "symbol": "S",
+      "name": "Sonic",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "FARTCOIN": {
+      "symbol": "FARTCOIN",
+      "name": "Fartcoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "XDC": {
+      "symbol": "XDC",
+      "name": "XDC Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/2912/large/xdc-icon.png?1696503661",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "VIRTUAL": {
+      "symbol": "VIRTUAL",
+      "name": "Virtuals Protocol",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "OP": {
+      "symbol": "OP",
+      "name": "Optimism",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/25244/large/Optimism.png?1696524385",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "PAXG": {
+      "symbol": "PAXG",
+      "name": "PAX Gold",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/9519/large/paxgold.png?1696509604",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SOLVBTC": {
+      "symbol": "SOLVBTC",
+      "name": "Solv Protocol BTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "METH": {
+      "symbol": "METH",
+      "name": "Mantle Staked Ether",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33345/large/symbol_transparent_bg.png?1701697066",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SYRUPUSDC": {
+      "symbol": "SYRUPUSDC",
+      "name": "SyrupUSDC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54658/large/SyrupUSDCO.png?1748850129",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "OSETH": {
+      "symbol": "OSETH",
+      "name": "StakeWise Staked ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33117/large/Frame_27513839.png?1700732599",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "WBNB": {
+      "symbol": "WBNB",
+      "name": "Wrapped BNB",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12591/large/binance-coin-logo.png?1696512401",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "IP": {
+      "symbol": "IP",
+      "name": "Story",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54035/large/Transparent_bg.png?1738075331",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CLBTC": {
+      "symbol": "CLBTC",
+      "name": "clBTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54164/large/clBTC.png?1738482999",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "XAUT": {
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "EZETH": {
+      "symbol": "EZETH",
+      "name": "Renzo Restaked ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/34753/large/Ezeth_logo_circle.png?1713496404",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "GRT": {
+      "symbol": "GRT",
+      "name": "The Graph",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "A": {
+      "symbol": "A",
+      "name": "Vaulta",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/55616/large/Vaulta_CEX_Icon_Circle_-_cmc.png?1746859132",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "WIF": {
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428",
+      "category": "meme",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "IMX": {
+      "symbol": "IMX",
+      "name": "Immutable",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "OUSG": {
+      "symbol": "OUSG",
+      "name": "OUSG",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/29023/large/OUSG.png?1696527993",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "JUPSOL": {
+      "symbol": "JUPSOL",
+      "name": "Jupiter Staked SOL",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/37482/large/jupsol.png?1714473916",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CRV": {
+      "symbol": "CRV",
+      "name": "Curve DAO",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "LSETH": {
+      "symbol": "LSETH",
+      "name": "Liquid Staked ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CAKE": {
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "MSOL": {
+      "symbol": "MSOL",
+      "name": "Marinade Staked SOL",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/17752/large/mSOL.png?1696517278",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "FLOKI": {
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318",
+      "category": "meme",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "USDX": {
+      "symbol": "USDX",
+      "name": "Stables Labs USDX",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50360/large/USDX200px.png?1731906044",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "JTO": {
+      "symbol": "JTO",
+      "name": "Jito",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33228/large/jto.png?1701137022",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AERO": {
+      "symbol": "AERO",
+      "name": "Aerodrome Finance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31745/large/token.png?1696530564",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "THETA": {
+      "symbol": "THETA",
+      "name": "Theta Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/2538/large/theta-token-logo.png?1696503349",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "AB": {
+      "symbol": "AB",
+      "name": "AB",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4376/large/400%E6%96%B9.png?1740377493",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDY": {
+      "symbol": "USDY",
+      "name": "Ondo US Dollar Yield",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ZEC": {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740",
+      "category": "privacy",
+      "bybit_supported": true
+    },
+    "SYRUP": {
+      "symbol": "SYRUP",
+      "name": "Maple Finance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51232/large/_syrup_token_logo.png?1747292046",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "LDO": {
+      "symbol": "LDO",
+      "name": "Lido DAO",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "JASMY": {
+      "symbol": "JASMY",
+      "name": "JasmyCoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13876/large/JASMY200x200.jpg?1696513620",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "XSOLVBTC": {
+      "symbol": "XSOLVBTC",
+      "name": "Solv Protocol Staked BTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39384/large/xSolvBTC.png?1744170824",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "BSV": {
+      "symbol": "BSV",
+      "name": "Bitcoin SV",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/6799/large/BSV.png?1696507128",
+      "category": "bitcoin",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ENS": {
+      "symbol": "ENS",
+      "name": "Ethereum Name Service",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/19785/large/ENS.jpg?1727872989",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GALA": {
+      "symbol": "GALA",
+      "name": "GALA",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12493/large/GALA_token_image_-_200PNG.png?1709725869",
+      "category": "gaming",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "USD0": {
+      "symbol": "USD0",
+      "name": "Usual USD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/38272/large/USD0LOGO.png?1716962811",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "IOTA": {
+      "symbol": "IOTA",
+      "name": "IOTA",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/692/large/IOTA_Thumbnail_%281%29.png?1743772896",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SAROS": {
+      "symbol": "SAROS",
+      "name": "Saros",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/34594/large/saros-token-logo.png?1705476813",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SAND": {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971",
+      "category": "gaming",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "BTT": {
+      "symbol": "BTT",
+      "name": "BitTorrent",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/22457/large/btt_logo.png?1696521780",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "PENGU": {
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TBTC": {
+      "symbol": "TBTC",
+      "name": "tBTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "XTZ": {
+      "symbol": "XTZ",
+      "name": "Tezos",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/976/large/Tezos-logo.png?1696502091",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "WHYPE": {
+      "symbol": "WHYPE",
+      "name": "Wrapped HYPE",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54469/large/_UP3jBsi_400x400.jpg?1739905920",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "PENDLE": {
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "PYTH": {
+      "symbol": "PYTH",
+      "name": "Pyth Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31924/large/pyth.png?1701245725",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SUPEROETH": {
+      "symbol": "SUPEROETH",
+      "name": "Super OETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39828/large/Super_OETH.png?1724208268",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CORE": {
+      "symbol": "CORE",
+      "name": "Core",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28938/large/file_589.jpg?1701868471",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DEXE": {
+      "symbol": "DEXE",
+      "name": "DeXe",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "RAY": {
+      "symbol": "RAY",
+      "name": "Raydium",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13928/large/PSigc4ie_400x400.jpg?1696513668",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CMETH": {
+      "symbol": "CMETH",
+      "name": "Mantle Restaked ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51114/large/symbol.png?1730117724",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "WAL": {
+      "symbol": "WAL",
+      "name": "Walrus",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54914/large/WAL_logo.png?1742494301",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CGETH.HASHKEY": {
+      "symbol": "CGETH.HASHKEY",
+      "name": "cgETH Hashkey Cloud",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54162/large/Cgeth_Hashkey.png?1738482570",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "XCN": {
+      "symbol": "XCN",
+      "name": "Onyxcoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/24210/large/onyxlogo.jpg?1696523397",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "FLOW": {
+      "symbol": "FLOW",
+      "name": "Flow",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13446/large/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1696513210",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "BTC.B": {
+      "symbol": "BTC.B",
+      "name": "Avalanche Bridged BTC (Avalanche)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/26115/large/btcb.png?1696525205",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "TUSD": {
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/3449/large/tusd.png?1696504140",
+      "category": "stablecoin",
+      "bybit_supported": true
+    },
+    "USDF": {
+      "symbol": "USDF",
+      "name": "Falcon USD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "MOVE": {
+      "symbol": "MOVE",
+      "name": "Movement",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39345/large/movement-testnet-token.png?1721878759",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "APE": {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/24383/large/apecoin.jpg?1696523566",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MANA": {
+      "symbol": "MANA",
+      "name": "Decentraland",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010",
+      "category": "gaming",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "RUNE": {
+      "symbol": "RUNE",
+      "name": "THORChain",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/6595/large/Rune200x200.png?1696506946",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "DOG": {
+      "symbol": "DOG",
+      "name": "Dog (Bitcoin)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/37352/large/DOGGOTOTHEMOON.png?1714096969",
+      "category": "meme",
+      "bybit_supported": false
+    },
+    "RLUSD": {
+      "symbol": "RLUSD",
+      "name": "Ripple USD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39651/large/RLUSD_200x200_%281%29.png?1727376633",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDC.E": {
+      "symbol": "USDC.E",
+      "name": "Bridged USDC (Polygon PoS Bridge)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33000/large/usdc.png?1700119918",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "KAVA": {
+      "symbol": "KAVA",
+      "name": "Kava",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/9761/large/kava.png?1696509822",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "NFT": {
+      "symbol": "NFT",
+      "name": "APENFT",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15687/large/apenft.jpg?1696515316",
+      "category": "gaming",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BDX": {
+      "symbol": "BDX",
+      "name": "Beldex",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/5111/large/Beldex.png?1696505631",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDD": {
+      "symbol": "USDD",
+      "name": "USDD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "MORPHO": {
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/29837/large/Morpho-token-icon.png?1726771230",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "COMP": {
+      "symbol": "COMP",
+      "name": "Compound",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "STHYPE": {
+      "symbol": "STHYPE",
+      "name": "Staked HYPE",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54509/large/hyperliquid.jpg?1740065301",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USYC": {
+      "symbol": "USYC",
+      "name": "Circle USYC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51054/large/Hashnote_SDYC_200x200.png?1730370965",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDB": {
+      "symbol": "USDB",
+      "name": "USDB",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35595/large/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "KET": {
+      "symbol": "KET",
+      "name": "Ket",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53789/large/edfw.jpg?1737381234",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "HNT": {
+      "symbol": "HNT",
+      "name": "Helium",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4284/large/helium_logo_use.png?1748092589",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "BRETT": {
+      "symbol": "BRETT",
+      "name": "Brett",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35529/large/1000050750.png?1709031995",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "NEO": {
+      "symbol": "NEO",
+      "name": "NEO",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/480/large/NEO_512_512.png?1696501735",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "EETH": {
+      "symbol": "EETH",
+      "name": "ether.fi Staked ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33049/large/ether.fi_eETH.png?1700473063",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "XEC": {
+      "symbol": "XEC",
+      "name": "eCash",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/16646/large/Logo_final-22.png?1696516207",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ETHX": {
+      "symbol": "ETHX",
+      "name": "Stader ETHx",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/30870/large/staderx.png?1696529717",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "EGLD": {
+      "symbol": "EGLD",
+      "name": "MultiversX",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12335/large/egld-token-logo.png?1696512162",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "STRK": {
+      "symbol": "STRK",
+      "name": "Starknet",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/26433/large/starknet.png?1696525507",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RSR": {
+      "symbol": "RSR",
+      "name": "Reserve Rights",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/8365/large/RSR_Blue_Circle_1000.png?1721777856",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AIOZ": {
+      "symbol": "AIOZ",
+      "name": "AIOZ Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14631/large/aioz-logo-200.png?1696514309",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "VENOM": {
+      "symbol": "VENOM",
+      "name": "Venom",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28660/large/Venom_Icon.png?1696527645",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "B": {
+      "symbol": "B",
+      "name": "BUILDon",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/55974/large/T7asvmCb_400x400.jpg?1747902862",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "DYDX": {
+      "symbol": "DYDX",
+      "name": "dYdX",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/32594/large/dydx.png?1698673495",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "CFX": {
+      "symbol": "CFX",
+      "name": "Conflux",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13079/large/3vuYMbjN.png?1696512867",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AXS": {
+      "symbol": "AXS",
+      "name": "Axie Infinity",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817",
+      "category": "gaming",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "EOS": {
+      "symbol": "EOS",
+      "name": "EOS",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/738/large/CG_EOS_Icon.png?1731705232",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "GRASS": {
+      "symbol": "GRASS",
+      "name": "Grass",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "TEL": {
+      "symbol": "TEL",
+      "name": "Telcoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1899/large/tel.png?1696502892",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ETHFI": {
+      "symbol": "ETHFI",
+      "name": "Ether.fi",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MOG": {
+      "symbol": "MOG",
+      "name": "Mog Coin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CBETH": {
+      "symbol": "CBETH",
+      "name": "Coinbase Wrapped Staked ETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/27008/large/cbeth.png?1709186989",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "EIGEN": {
+      "symbol": "EIGEN",
+      "name": "Eigenlayer",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/37441/large/eigen.jpg?1728023974",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "KAITO": {
+      "symbol": "KAITO",
+      "name": "KAITO",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54411/large/Qm4DW488_400x400.jpg?1739552780",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "JST": {
+      "symbol": "JST",
+      "name": "JUST",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/11095/large/JUST.jpg?1696511035",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CHZ": {
+      "symbol": "CHZ",
+      "name": "Chiliz",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986",
+      "category": "gaming",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "EBTC": {
+      "symbol": "EBTC",
+      "name": "Ether.fi Staked BTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50411/large/eBTC.png?1727664788",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "OHM": {
+      "symbol": "OHM",
+      "name": "Olympus",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1696514169",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "USDG": {
+      "symbol": "USDG",
+      "name": "Global Dollar",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51281/large/GDN_USDG_Token_200x200.png?1730484111",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SWETH": {
+      "symbol": "SWETH",
+      "name": "Swell Ethereum",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/30326/large/_lB7zEtS_400x400.jpg?1696529227",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ZK": {
+      "symbol": "ZK",
+      "name": "ZKsync",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?1718614502",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AXL": {
+      "symbol": "AXL",
+      "name": "Axelar",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SUN": {
+      "symbol": "SUN",
+      "name": "Sun Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12424/large/RSFOmQ.png?1696512245",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "FRAX": {
+      "symbol": "FRAX",
+      "name": "Legacy Frax Dollar",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13422/large/frax-logo.png?1739780303",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "BUSD": {
+      "symbol": "BUSD",
+      "name": "Binance-Peg BUSD",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31273/large/new_binance-peg-busd.png?1696530096",
+      "category": "stablecoin",
+      "bybit_supported": true
+    },
+    "DEEP": {
+      "symbol": "DEEP",
+      "name": "DeepBook",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50648/large/DEEP_Logo_256x256_px_%282%29.png?1728612340",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "AR": {
+      "symbol": "AR",
+      "name": "Arweave",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1696504946",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ZBCN": {
+      "symbol": "ZBCN",
+      "name": "Zebec Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/37052/large/zbcn.jpeg?1713168241",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BBSOL": {
+      "symbol": "BBSOL",
+      "name": "Bybit Staked SOL",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/40095/large/400x400.png?1725628094",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "LUNC": {
+      "symbol": "LUNC",
+      "name": "Terra Luna Classic",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/8284/large/01_LunaClassic_color.png?1696508486",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TRIP": {
+      "symbol": "TRIP",
+      "name": "Trip",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54717/large/IMG-20250120-184423-846.png?1741186152",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "W": {
+      "symbol": "W",
+      "name": "Wormhole",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "FRXETH": {
+      "symbol": "FRXETH",
+      "name": "Frax Ether",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ABTC": {
+      "symbol": "ABTC",
+      "name": "aBTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50837/large/aBTC_512.png?1729260701",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CHEEMS": {
+      "symbol": "CHEEMS",
+      "name": "Cheems Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/30376/large/Hg4_Lhbg_400x400.jpg?1696529270",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "GNO": {
+      "symbol": "GNO",
+      "name": "Gnosis",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "AKT": {
+      "symbol": "AKT",
+      "name": "Akash Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12785/large/akash-logo.png?1696512580",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "RON": {
+      "symbol": "RON",
+      "name": "Ronin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/20009/large/photo_2024-04-06_22-52-24.jpg?1712415367",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TWT": {
+      "symbol": "TWT",
+      "name": "Trust Wallet",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/11085/large/Trust.png?1696511026",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "ATH": {
+      "symbol": "ATH",
+      "name": "Aethir",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36179/large/logogram_circle_dark_green_vb_green_%281%29.png?1718232706",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "USDO": {
+      "symbol": "USDO",
+      "name": "OpenEden OpenDollar",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53750/large/USDO_LOGO-white.png?1737181887",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "AMP": {
+      "symbol": "AMP",
+      "name": "Amp",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12409/large/amp-200x200.png?1696512231",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "WAVAX": {
+      "symbol": "WAVAX",
+      "name": "Wrapped AVAX",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15075/large/wrapped-avax.png?1696514734",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "BEAM": {
+      "symbol": "BEAM",
+      "name": "Beam",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/32417/large/cgicon.png?1747892021",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "PUMPBTC": {
+      "symbol": "PUMPBTC",
+      "name": "pumpBTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39232/large/200pxPumpBTCLogo.png?1721227861",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CWBTC": {
+      "symbol": "CWBTC",
+      "name": "cWBTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/10823/large/cwbtc.png?1696510780",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "EUTBL": {
+      "symbol": "EUTBL",
+      "name": "Spiko EU T-Bills Money Market Fund",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39657/large/EUTBL.png?1723517425",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CUSDO": {
+      "symbol": "CUSDO",
+      "name": "Compounding OpenDollar",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53751/large/cUSDO_logo_white.png?1737182014",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "CTC": {
+      "symbol": "CTC",
+      "name": "Creditcoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/10569/large/Creditcoin_Symbol_dark56.png?1737796066",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "KTA": {
+      "symbol": "KTA",
+      "name": "Keeta",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54723/large/2025-03-05_22.53.06.jpg?1741234207",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "BTSE": {
+      "symbol": "BTSE",
+      "name": "BTSE Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/10807/large/BTSE_logo_Square.jpeg?1696510765",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "SUPER": {
+      "symbol": "SUPER",
+      "name": "SuperVerse",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "POPCAT": {
+      "symbol": "POPCAT",
+      "name": "Popcat",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33760/large/image.jpg?1702964227",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "MATIC": {
+      "symbol": "MATIC",
+      "name": "Polygon",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4713/large/polygon.png?1698233745",
+      "category": "layer1",
+      "bybit_supported": true
+    },
+    "UNIBTC": {
+      "symbol": "UNIBTC",
+      "name": "Universal BTC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39599/large/uniBTC_200px.png?1723064455",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "1INCH": {
+      "symbol": "1INCH",
+      "name": "1inch",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-token.png?1696513230",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DCR": {
+      "symbol": "DCR",
+      "name": "Decred",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/329/large/decred.png?1696501665",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "DASH": {
+      "symbol": "DASH",
+      "name": "Dash",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/19/large/dash-logo.png?1696501423",
+      "category": "privacy",
+      "bybit_supported": true
+    },
+    "TURBO": {
+      "symbol": "TURBO",
+      "name": "Turbo",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "USR": {
+      "symbol": "USR",
+      "name": "Resolv USR",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/40008/large/USR_LOGO.png?1725222638",
+      "category": "other",
+      "bybit_supported": false
+    },
+    "FTM": {
+      "symbol": "FTM",
+      "name": "Fantom",
+      "logo_url": "https://cryptologos.cc/logos/ftm-ftm-logo.png",
+      "category": "layer1",
+      "bybit_supported": true
+    },
+    "ONE": {
+      "symbol": "ONE",
+      "name": "ONE",
+      "logo_url": "https://cryptologos.cc/logos/one-one-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "HARMONY": {
+      "symbol": "HARMONY",
+      "name": "HARMONY",
+      "logo_url": "https://cryptologos.cc/logos/harmony-harmony-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "LUNA": {
+      "symbol": "LUNA",
+      "name": "LUNA",
+      "logo_url": "https://cryptologos.cc/logos/luna-luna-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "TERRA": {
+      "symbol": "TERRA",
+      "name": "TERRA",
+      "logo_url": "https://cryptologos.cc/logos/terra-terra-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "KLAY": {
+      "symbol": "KLAY",
+      "name": "KLAY",
+      "logo_url": "https://cryptologos.cc/logos/klay-klay-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "WAVES": {
+      "symbol": "WAVES",
+      "name": "WAVES",
+      "logo_url": "https://cryptologos.cc/logos/waves-waves-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "QTUM": {
+      "symbol": "QTUM",
+      "name": "QTUM",
+      "logo_url": "https://cryptologos.cc/logos/qtum-qtum-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "MKR": {
+      "symbol": "MKR",
+      "name": "MKR",
+      "logo_url": "https://cryptologos.cc/logos/mkr-mkr-logo.png",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SNX": {
+      "symbol": "SNX",
+      "name": "SNX",
+      "logo_url": "https://cryptologos.cc/logos/snx-snx-logo.png",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "YFI": {
+      "symbol": "YFI",
+      "name": "YFI",
+      "logo_url": "https://cryptologos.cc/logos/yfi-yfi-logo.png",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SUSHI": {
+      "symbol": "SUSHI",
+      "name": "SUSHI",
+      "logo_url": "https://cryptologos.cc/logos/sushi-sushi-logo.png",
+      "category": "defi",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "BAL": {
+      "symbol": "BAL",
+      "name": "BAL",
+      "logo_url": "https://cryptologos.cc/logos/bal-bal-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ZRX": {
+      "symbol": "ZRX",
+      "name": "ZRX",
+      "logo_url": "https://cryptologos.cc/logos/zrx-zrx-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "REN": {
+      "symbol": "REN",
+      "name": "REN",
+      "logo_url": "https://cryptologos.cc/logos/ren-ren-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "LRC": {
+      "symbol": "LRC",
+      "name": "LRC",
+      "logo_url": "https://cryptologos.cc/logos/lrc-lrc-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "KNC": {
+      "symbol": "KNC",
+      "name": "KNC",
+      "logo_url": "https://cryptologos.cc/logos/knc-knc-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "BAND": {
+      "symbol": "BAND",
+      "name": "BAND",
+      "logo_url": "https://cryptologos.cc/logos/band-band-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ALPHA": {
+      "symbol": "ALPHA",
+      "name": "ALPHA",
+      "logo_url": "https://cryptologos.cc/logos/alpha-alpha-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "AUTO": {
+      "symbol": "AUTO",
+      "name": "AUTO",
+      "logo_url": "https://cryptologos.cc/logos/auto-auto-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "HT": {
+      "symbol": "HT",
+      "name": "HT",
+      "logo_url": "https://cryptologos.cc/logos/ht-ht-logo.png",
+      "category": "exchange",
+      "bybit_supported": true
+    },
+    "FTT": {
+      "symbol": "FTT",
+      "name": "FTT",
+      "logo_url": "https://cryptologos.cc/logos/ftt-ftt-logo.png",
+      "category": "exchange",
+      "bybit_supported": true
+    },
+    "BABYDOGE": {
+      "symbol": "BABYDOGE",
+      "name": "BABYDOGE",
+      "logo_url": "https://cryptologos.cc/logos/babydoge-babydoge-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ELON": {
+      "symbol": "ELON",
+      "name": "ELON",
+      "logo_url": "https://cryptologos.cc/logos/elon-elon-logo.png",
+      "category": "meme",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "AKITA": {
+      "symbol": "AKITA",
+      "name": "AKITA",
+      "logo_url": "https://cryptologos.cc/logos/akita-akita-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "WOJAK": {
+      "symbol": "WOJAK",
+      "name": "WOJAK",
+      "logo_url": "https://cryptologos.cc/logos/wojak-wojak-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "ENJ": {
+      "symbol": "ENJ",
+      "name": "ENJ",
+      "logo_url": "https://cryptologos.cc/logos/enj-enj-logo.png",
+      "category": "gaming",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "WAX": {
+      "symbol": "WAX",
+      "name": "WAX",
+      "logo_url": "https://cryptologos.cc/logos/wax-wax-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "AUDIO": {
+      "symbol": "AUDIO",
+      "name": "AUDIO",
+      "logo_url": "https://cryptologos.cc/logos/audio-audio-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "ZEN": {
+      "symbol": "ZEN",
+      "name": "ZEN",
+      "logo_url": "https://cryptologos.cc/logos/zen-zen-logo.png",
+      "category": "privacy",
+      "bybit_supported": true
+    },
+    "FIRO": {
+      "symbol": "FIRO",
+      "name": "FIRO",
+      "logo_url": "https://cryptologos.cc/logos/firo-firo-logo.png",
+      "category": "privacy",
+      "bybit_supported": true
+    },
+    "GUSD": {
+      "symbol": "GUSD",
+      "name": "GUSD",
+      "logo_url": "https://cryptologos.cc/logos/gusd-gusd-logo.png",
+      "category": "stablecoin",
+      "bybit_supported": true
+    },
+    "PAX": {
+      "symbol": "PAX",
+      "name": "PAX",
+      "logo_url": "https://cryptologos.cc/logos/pax-pax-logo.png",
+      "category": "stablecoin",
+      "bybit_supported": true
+    },
+    "HUSD": {
+      "symbol": "HUSD",
+      "name": "HUSD",
+      "logo_url": "https://cryptologos.cc/logos/husd-husd-logo.png",
+      "category": "stablecoin",
+      "bybit_supported": true
+    },
+    "OMG": {
+      "symbol": "OMG",
+      "name": "OMG",
+      "logo_url": "https://cryptologos.cc/logos/omg-omg-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "SKALE": {
+      "symbol": "SKALE",
+      "name": "SKALE",
+      "logo_url": "https://cryptologos.cc/logos/skale-skale-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "CTSI": {
+      "symbol": "CTSI",
+      "name": "CTSI",
+      "logo_url": "https://cryptologos.cc/logos/ctsi-ctsi-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "WTC": {
+      "symbol": "WTC",
+      "name": "WTC",
+      "logo_url": "https://cryptologos.cc/logos/wtc-wtc-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "IOST": {
+      "symbol": "IOST",
+      "name": "IOST",
+      "logo_url": "https://cryptologos.cc/logos/iost-iost-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ICX": {
+      "symbol": "ICX",
+      "name": "ICX",
+      "logo_url": "https://cryptologos.cc/logos/icx-icx-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "NANO": {
+      "symbol": "NANO",
+      "name": "NANO",
+      "logo_url": "https://cryptologos.cc/logos/nano-nano-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "MASK": {
+      "symbol": "MASK",
+      "name": "MASK",
+      "logo_url": "https://cryptologos.cc/logos/mask-mask-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "API3": {
+      "symbol": "API3",
+      "name": "API3",
+      "logo_url": "https://cryptologos.cc/logos/api3-api3-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "STORJ": {
+      "symbol": "STORJ",
+      "name": "STORJ",
+      "logo_url": "https://cryptologos.cc/logos/storj-storj-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SC": {
+      "symbol": "SC",
+      "name": "SC",
+      "logo_url": "https://cryptologos.cc/logos/sc-sc-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "SIA": {
+      "symbol": "SIA",
+      "name": "SIA",
+      "logo_url": "https://cryptologos.cc/logos/sia-sia-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "ONT": {
+      "symbol": "ONT",
+      "name": "ONT",
+      "logo_url": "https://cryptologos.cc/logos/ont-ont-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "GAS": {
+      "symbol": "GAS",
+      "name": "GAS",
+      "logo_url": "https://cryptologos.cc/logos/gas-gas-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "WAN": {
+      "symbol": "WAN",
+      "name": "WAN",
+      "logo_url": "https://cryptologos.cc/logos/wan-wan-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "LOOM": {
+      "symbol": "LOOM",
+      "name": "LOOM",
+      "logo_url": "https://cryptologos.cc/logos/loom-loom-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "BLUR": {
+      "symbol": "BLUR",
+      "name": "BLUR",
+      "logo_url": "https://cryptologos.cc/logos/blur-blur-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "RNDR": {
+      "symbol": "RNDR",
+      "name": "RNDR",
+      "logo_url": "https://cryptologos.cc/logos/rndr-rndr-logo.png",
+      "category": "other",
+      "bybit_supported": true
+    },
+    "RPL": {
+      "symbol": "RPL",
+      "name": "RPL",
+      "logo_url": "https://cryptologos.cc/logos/rpl-rpl-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "GMX": {
+      "symbol": "GMX",
+      "name": "GMX",
+      "logo_url": "https://cryptologos.cc/logos/gmx-gmx-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "RDNT": {
+      "symbol": "RDNT",
+      "name": "RDNT",
+      "logo_url": "https://cryptologos.cc/logos/rdnt-rdnt-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "MAGIC": {
+      "symbol": "MAGIC",
+      "name": "MAGIC",
+      "logo_url": "https://cryptologos.cc/logos/magic-magic-logo.png",
+      "category": "other",
+      "bybit_supported": true,
+      "okx_supported": true
+    },
+    "ACA": {
+      "symbol": "ACA",
+      "name": "Acala",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/20634/large/upOKBONH_400x400.jpg?1696520038",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ACE": {
+      "symbol": "ACE",
+      "name": "Fusionist",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33528/large/ACE.png?1702254943",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ACH": {
+      "symbol": "ACH",
+      "name": "Alchemy Pay",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12390/large/ACH_%281%29.png?1696512213",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ACT": {
+      "symbol": "ACT",
+      "name": "Act I The AI Prophecy",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50984/large/ai_prophecy.jpg?1729653897",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AED": {
+      "symbol": "AED",
+      "name": "AED",
+      "logo_url": "https://cryptofonts.com/img/icons/aed.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AERGO": {
+      "symbol": "AERGO",
+      "name": "Aergo",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4490/large/aergo.png?1696505079",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AEVO": {
+      "symbol": "AEVO",
+      "name": "Aevo",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35893/large/aevo.png?1710138340",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AGLD": {
+      "symbol": "AGLD",
+      "name": "Adventure Gold",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/18125/large/lpgblc4h_400x400.jpg?1696517628",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AIDOGE": {
+      "symbol": "AIDOGE",
+      "name": "ArbDoge AI",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/29852/large/photo_2023-04-18_14-25-28.jpg?1696528778",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AIXBT": {
+      "symbol": "AIXBT",
+      "name": "aixbt by Virtuals",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51784/large/3.png?1731981138",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ANIME": {
+      "symbol": "ANIME",
+      "name": "Animefication",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/55088/large/anime.png?1743665879",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ARG": {
+      "symbol": "ARG",
+      "name": "Argentine Football Association Fan Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/16259/large/ARG.png?1741425548",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ARKM": {
+      "symbol": "ARKM",
+      "name": "Arkham",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/30929/large/Arkham_Logo_CG.png?1696529771",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ASTR": {
+      "symbol": "ASTR",
+      "name": "Soneium Bridged ASTR (Soneium)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53778/large/astar.jpg?1737341226",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AUCTION": {
+      "symbol": "AUCTION",
+      "name": "Bounce",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13860/large/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg?1696513606",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "AUD": {
+      "symbol": "AUD",
+      "name": "AUD",
+      "logo_url": "https://cryptofonts.com/img/icons/aud.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BABY": {
+      "symbol": "BABY",
+      "name": "Deer Seized by US Government",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/54628/large/QmWFZ95k7L2EAdveFRJ6g4UYyxqX2xG7fTtzvxHNuEWzKD_%281%29.png?1740812127",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BADGER": {
+      "symbol": "BADGER",
+      "name": "Badger",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13287/large/badger_dao_logo.jpg?1696513059",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BANANA": {
+      "symbol": "BANANA",
+      "name": "World Record Banana",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36513/large/Banana.png?1711692460",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BAT": {
+      "symbol": "BAT",
+      "name": "Batic",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50675/large/batic.jpg?1728693607",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BERA": {
+      "symbol": "BERA",
+      "name": "Berachain",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/25235/large/BERA.png?1738822008",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BETH": {
+      "symbol": "BETH",
+      "name": "OKX BETH",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33474/large/OKX_logo.png?1702012988",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BICO": {
+      "symbol": "BICO",
+      "name": "Biconomy",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/21061/large/biconomy_logo.jpg?1696520444",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BIGTIME": {
+      "symbol": "BIGTIME",
+      "name": "Big Time",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/32251/large/-6136155493475923781_121.jpg?1696998691",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BIO": {
+      "symbol": "BIO",
+      "name": "Bio Protocol",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53022/large/bio.jpg?1735011002",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BNT": {
+      "symbol": "BNT",
+      "name": "Bancor Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/736/large/Bancor_Token.png?1710479159",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BOME": {
+      "symbol": "BOME",
+      "name": "BOOK OF MEME",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36071/large/bome.png?1710407255",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BONE": {
+      "symbol": "BONE",
+      "name": "FLEABONE",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51637/large/FLEABONE.png?1731687324",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "BRL": {
+      "symbol": "BRL",
+      "name": "Borealis",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/22089/large/auroraswap.png?1696521432",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CAT": {
+      "symbol": "CAT",
+      "name": "the life of cat",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/52903/large/NB3dGnx4_400x400.jpg?1734637316",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CATI": {
+      "symbol": "CATI",
+      "name": "Catizen",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50236/large/cati.png?1726638258",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CELO": {
+      "symbol": "CELO",
+      "name": "Celo (Wormhole)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/32400/large/celo_wh.png?1698055352",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CELR": {
+      "symbol": "CELR",
+      "name": "Celer Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4379/large/Celr.png?1696504978",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CETUS": {
+      "symbol": "CETUS",
+      "name": "Cetus Protocol",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/30256/large/cetus.png?1696529165",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CFG": {
+      "symbol": "CFG",
+      "name": "Centrifuge",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/55913/large/centrifuge.jpg?1747707741",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CITY": {
+      "symbol": "CITY",
+      "name": "Manchester City Fan Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15799/large/CITY.png?1741518718",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CLV": {
+      "symbol": "CLV",
+      "name": "Clover Finance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15278/large/CLV_-_Circle_Logo_-_Only_Icon_1_%281%29.png?1734037808",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CSPR": {
+      "symbol": "CSPR",
+      "name": "Casper Network",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15279/large/Casper_Monogram_Favicon_White_on_Red_Circle_RGB_200px.png?1749832573",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CVC": {
+      "symbol": "CVC",
+      "name": "Civic",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/788/large/civic-icon-black-padding.png?1750494984",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CVX": {
+      "symbol": "CVX",
+      "name": "Convex Finance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15585/large/convex.png?1696515221",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "CXT": {
+      "symbol": "CXT",
+      "name": "Covalent X Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39177/large/Covalent_Logomark_Square_Square.png?1734037870",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DAO": {
+      "symbol": "DAO",
+      "name": "DAO Maker",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/13915/large/4.jpg?1727532864",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DEGEN": {
+      "symbol": "DEGEN",
+      "name": "degen the otter",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50431/large/_DEGEN_%28200_x_200_px%29.png?1727695100",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DEP": {
+      "symbol": "DEP",
+      "name": "DEAPCOIN",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/10970/large/DEAPcoin_01.png?1696510917",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DGB": {
+      "symbol": "DGB",
+      "name": "DigiByte",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/63/large/digibyte.png?1696501454",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DIA": {
+      "symbol": "DIA",
+      "name": "DIA",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/11955/large/Token_Logo.png?1696511815",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DOGS": {
+      "symbol": "DOGS",
+      "name": "Dogs",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png?1723687163",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DORA": {
+      "symbol": "DORA",
+      "name": "Dora Factory",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/31552/large/DORA.jpg?1696530364",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "DUCK": {
+      "symbol": "DUCK",
+      "name": "Lemonade Stand Duck",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/52818/large/2ru7VX6NnaZ78znCtgGmYs2PdcAQRCr3UaPfRkDUpump.webp?1734384076",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ELF": {
+      "symbol": "ELF",
+      "name": "aelf",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1371/large/aelf-logo.png?1696502429",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ERN": {
+      "symbol": "ERN",
+      "name": "Ethos Reserve Note",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/29744/large/ERN200x200.png?1696528676",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ETHW": {
+      "symbol": "ETHW",
+      "name": "EthereumPoW",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/26997/large/logo-clear.png?1696526049",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "EUR": {
+      "symbol": "EUR",
+      "name": "EUR",
+      "logo_url": "https://cryptofonts.com/img/icons/eur.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "EURC": {
+      "symbol": "EURC",
+      "name": "EURC",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/26045/large/euro.png?1696525125",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "FLM": {
+      "symbol": "FLM",
+      "name": "Flamingo Finance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12618/large/flamingo_finance_logo.jpg?1696512425",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "FLUID": {
+      "symbol": "FLUID",
+      "name": "Fluid",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14688/large/Logo_1_%28brighter%29.png?1734430693",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "FORTH": {
+      "symbol": "FORTH",
+      "name": "Ampleforth Governance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14917/large/photo_2021-04-22_00.00.03.jpeg?1696514579",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "FOXY": {
+      "symbol": "FOXY",
+      "name": "Foxy",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36870/large/Foxy_Logo_Square_200x200.png?1712645286",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "FXS": {
+      "symbol": "FXS",
+      "name": "FXS",
+      "logo_url": "https://cryptofonts.com/img/icons/fxs.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "G": {
+      "symbol": "G",
+      "name": "Gravity (by Galxe)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39200/large/gravity.jpg?1721020647",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GALFT": {
+      "symbol": "GALFT",
+      "name": "GALFT",
+      "logo_url": "https://cryptofonts.com/img/icons/galft.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GEAR": {
+      "symbol": "GEAR",
+      "name": "Near Tinker Union GEAR",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/33893/large/ntu_logo.png?1703214259",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GHST": {
+      "symbol": "GHST",
+      "name": "Aavegotchi",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12467/large/GHST.png?1696512286",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GLM": {
+      "symbol": "GLM",
+      "name": "Golem",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/542/large/Golem_Submark_Positive_RGB.png?1696501761",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GLMR": {
+      "symbol": "GLMR",
+      "name": "Moonbeam",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/22459/large/Moonbeam_GLMR_ICON.png?1716647586",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GMT": {
+      "symbol": "GMT",
+      "name": "GMT",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/23597/large/token-gmt-200x200.png?1703153841",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GOAT": {
+      "symbol": "GOAT",
+      "name": "Sonic The Goat",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/37096/large/Goat.png?1713748992",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GODS": {
+      "symbol": "GODS",
+      "name": "Gods Unchained",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/17139/large/10631.png?1696516698",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "GOG": {
+      "symbol": "GOG",
+      "name": "Guild of Guardians",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/17362/large/V2QDNoLg_400x400.jpg?1696516913",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "HMSTR": {
+      "symbol": "HMSTR",
+      "name": "Hamster Kombat",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39102/large/hamster-removebg-preview.png?1720514486",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "HUMA": {
+      "symbol": "HUMA",
+      "name": "Huma Finance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/29215/large/huma.png?1696528173",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ICE": {
+      "symbol": "ICE",
+      "name": "Iron Finance",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/17024/large/ice_logo.jpg?1696516587",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ID": {
+      "symbol": "ID",
+      "name": "SPACE ID",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/29468/large/sid_token_logo_%28green2%29.png?1696528413",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ILV": {
+      "symbol": "ILV",
+      "name": "Illuvium",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14468/large/logo-200x200.png?1696514154",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "J": {
+      "symbol": "J",
+      "name": "Jambo",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53539/large/2D.png?1736596215",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "JOE": {
+      "symbol": "JOE",
+      "name": "Joe Coin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/32333/large/joe.png?1697452551",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "KDA": {
+      "symbol": "KDA",
+      "name": "Kadena",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/3693/large/Social_-_Profile_Picture.png?1723001308",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "KMNO": {
+      "symbol": "KMNO",
+      "name": "Kamino",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/35801/large/tP0Lcgwp_400x400.jpg?1709824189",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "KSM": {
+      "symbol": "KSM",
+      "name": "Kusama",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg?1696509648",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "LAT": {
+      "symbol": "LAT",
+      "name": "PlatON Network",
+      "logo_url": "https://cryptofonts.com/img/icons/lat.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "LAYER": {
+      "symbol": "LAYER",
+      "name": "UniLayer",
+      "logo_url": "https://cryptofonts.com/img/icons/layer.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "LOOKS": {
+      "symbol": "LOOKS",
+      "name": "LooksRare",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/22173/large/circle-black-256.png?1696521517",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "LPT": {
+      "symbol": "LPT",
+      "name": "Livepeer",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/7137/large/badge-logo-circuit-green.png?1719357686",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "LQTY": {
+      "symbol": "LQTY",
+      "name": "Liquity",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/14665/large/logo_V2.png?1725437146",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "LSK": {
+      "symbol": "LSK",
+      "name": "Lisk",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/385/large/Lisk_logo.png?1722338450",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MAJOR": {
+      "symbol": "MAJOR",
+      "name": "Major Frog",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51362/large/PW838Bvn_400x400.jpg?1730878268",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ME": {
+      "symbol": "ME",
+      "name": "Magic Eden",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/39850/large/_ME_Profile_Dark_2x.png?1734013082",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MEME": {
+      "symbol": "MEME",
+      "name": "MPX6900",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50702/large/IMG_6670.PNG?1728787424",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MEMEFI": {
+      "symbol": "MEMEFI",
+      "name": "MemeFi",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/51175/large/memefi.png?1730289107",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MENGO": {
+      "symbol": "MENGO",
+      "name": "Flamengo Fan Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/19461/large/MENGO.png?1741579338",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MERL": {
+      "symbol": "MERL",
+      "name": "Merlin Chain",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/37118/large/merlin.jpeg?1713352230",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "METIS": {
+      "symbol": "METIS",
+      "name": "Metis",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15595/large/Metis_Black_Bg.png?1702968192",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MEW": {
+      "symbol": "MEW",
+      "name": "cat in a dogs world",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/36440/large/MEW.png?1711442286",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MINA": {
+      "symbol": "MINA",
+      "name": "Mina Protocol",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15628/large/JM4_vQ34_400x400.png?1696515261",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MLN": {
+      "symbol": "MLN",
+      "name": "Enzyme",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/605/large/Enzyme_LinkedIn_Profile_Picture.png?1747249623",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MOODENG": {
+      "symbol": "MOODENG",
+      "name": "MOO DENG",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50348/large/1000000612.jpg?1727248974",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "MOVR": {
+      "symbol": "MOVR",
+      "name": "Moonriver",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/17984/large/Moonriver_MOVR_ICON.png?1716647589",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "NAVX": {
+      "symbol": "NAVX",
+      "name": "NAVI Protocol",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/32650/large/Navi.png?1742022349",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "NC": {
+      "symbol": "NC",
+      "name": "Nodecoin",
+      "logo_url": "https://cryptofonts.com/img/icons/nc.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "NEIRO": {
+      "symbol": "NEIRO",
+      "name": "Neiro on Tron",
+      "logo_url": "https://cryptofonts.com/img/icons/neiro.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "NMR": {
+      "symbol": "NMR",
+      "name": "Numeraire",
+      "logo_url": "https://cryptofonts.com/img/icons/nmr.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "NOT": {
+      "symbol": "NOT",
+      "name": "Nothing",
+      "logo_url": "https://cryptofonts.com/img/icons/not.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "OAS": {
+      "symbol": "OAS",
+      "name": "Oasys",
+      "logo_url": "https://cryptofonts.com/img/icons/oas.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "OKSOL": {
+      "symbol": "OKSOL",
+      "name": "OKSOL",
+      "logo_url": "https://cryptofonts.com/img/icons/oksol.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "OKT": {
+      "symbol": "OKT",
+      "name": "OKT Chain",
+      "logo_url": "https://cryptofonts.com/img/icons/okt.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "OL": {
+      "symbol": "OL",
+      "name": "OPENLOOT",
+      "logo_url": "https://cryptofonts.com/img/icons/ol.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "OM": {
+      "symbol": "OM",
+      "name": "MANTRA",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "OMI": {
+      "symbol": "OMI",
+      "name": "ECOMI",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/4428/large/ECOMI.png?1696505023",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ORBS": {
+      "symbol": "ORBS",
+      "name": "Orbs",
+      "logo_url": "https://cryptofonts.com/img/icons/orbs.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ORDI": {
+      "symbol": "ORDI",
+      "name": "ORDI",
+      "logo_url": "https://cryptofonts.com/img/icons/ordi.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "OXT": {
+      "symbol": "OXT",
+      "name": "Orchid Protocol",
+      "logo_url": "https://cryptofonts.com/img/icons/oxt.svg",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PARTI": {
+      "symbol": "PARTI",
+      "name": "Particle Network",
+      "logo_url": "https://cryptofonts.com/img/icons/parti.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PEOPLE": {
+      "symbol": "PEOPLE",
+      "name": "ConstitutionDAO (Wormhole)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/23009/large/PEOPLE_wh_small.png?1696522304",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PERP": {
+      "symbol": "PERP",
+      "name": "Perpetual Protocol",
+      "logo_url": "https://cryptofonts.com/img/icons/perp.svg",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PHA": {
+      "symbol": "PHA",
+      "name": "PHALA",
+      "logo_url": "https://cryptofonts.com/img/icons/pha.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PIXEL": {
+      "symbol": "PIXEL",
+      "name": "PixelVerse",
+      "logo_url": "https://cryptofonts.com/img/icons/pixel.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PNUT": {
+      "symbol": "PNUT",
+      "name": "Pnut",
+      "logo_url": "https://cryptofonts.com/img/icons/pnut.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "POLYDOGE": {
+      "symbol": "POLYDOGE",
+      "name": "PolyDoge",
+      "logo_url": "https://cryptofonts.com/img/icons/polydoge.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "POR": {
+      "symbol": "POR",
+      "name": "Portuma",
+      "logo_url": "https://cryptofonts.com/img/icons/por.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PRCL": {
+      "symbol": "PRCL",
+      "name": "Parcl",
+      "logo_url": "https://cryptofonts.com/img/icons/prcl.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PROMPT": {
+      "symbol": "PROMPT",
+      "name": "Wayfinder",
+      "logo_url": "https://cryptofonts.com/img/icons/prompt.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "PSTAKE": {
+      "symbol": "PSTAKE",
+      "name": "pSTAKE Finance",
+      "logo_url": "https://cryptofonts.com/img/icons/pstake.svg",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RACA": {
+      "symbol": "RACA",
+      "name": "Radio Caca",
+      "logo_url": "https://cryptofonts.com/img/icons/raca.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RESOLV": {
+      "symbol": "RESOLV",
+      "name": "Resolv",
+      "logo_url": "https://cryptofonts.com/img/icons/resolv.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RIO": {
+      "symbol": "RIO",
+      "name": "Realio Network Token",
+      "logo_url": "https://cryptofonts.com/img/icons/rio.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RSS3": {
+      "symbol": "RSS3",
+      "name": "RSS3",
+      "logo_url": "https://cryptofonts.com/img/icons/rss3.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RUNECOIN": {
+      "symbol": "RUNECOIN",
+      "name": "RUNECOIN",
+      "logo_url": "https://cryptofonts.com/img/icons/runecoin.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "RVN": {
+      "symbol": "RVN",
+      "name": "Ravencoin",
+      "logo_url": "https://cryptofonts.com/img/icons/rvn.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SAFE": {
+      "symbol": "SAFE",
+      "name": "SafeCoin",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/5011/large/Safecoin_Logo.png?1696505543",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SAHARA": {
+      "symbol": "SAHARA",
+      "name": "Sahara AI",
+      "logo_url": "https://cryptofonts.com/img/icons/sahara.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SATS": {
+      "symbol": "SATS",
+      "name": "SATS (Ordinals)",
+      "logo_url": "https://cryptofonts.com/img/icons/sats.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SCR": {
+      "symbol": "SCR",
+      "name": "Scroll",
+      "logo_url": "https://cryptofonts.com/img/icons/scr.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SD": {
+      "symbol": "SD",
+      "name": "Stader",
+      "logo_url": "https://cryptofonts.com/img/icons/sd.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SGD": {
+      "symbol": "SGD",
+      "name": "SGD",
+      "logo_url": "https://cryptofonts.com/img/icons/sgd.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SKL": {
+      "symbol": "SKL",
+      "name": "SKALE",
+      "logo_url": "https://cryptofonts.com/img/icons/skl.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SLERF": {
+      "symbol": "SLERF",
+      "name": "Slerf",
+      "logo_url": "https://cryptofonts.com/img/icons/slerf.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SLP": {
+      "symbol": "SLP",
+      "name": "Smooth Love Potion",
+      "logo_url": "https://cryptofonts.com/img/icons/slp.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SNT": {
+      "symbol": "SNT",
+      "name": "Status",
+      "logo_url": "https://cryptofonts.com/img/icons/snt.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SONIC": {
+      "symbol": "SONIC",
+      "name": "Sonic SVM",
+      "logo_url": "https://cryptofonts.com/img/icons/sonic.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SOPH": {
+      "symbol": "SOPH",
+      "name": "Sophon",
+      "logo_url": "https://cryptofonts.com/img/icons/soph.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SPK": {
+      "symbol": "SPK",
+      "name": "Spark",
+      "logo_url": "https://cryptofonts.com/img/icons/spk.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SPURS": {
+      "symbol": "SPURS",
+      "name": "Tottenham Hotspur FC Fan Token",
+      "logo_url": "https://cryptofonts.com/img/icons/spurs.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SSV": {
+      "symbol": "SSV",
+      "name": "SSV Network",
+      "logo_url": "https://cryptofonts.com/img/icons/ssv.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SWEAT": {
+      "symbol": "SWEAT",
+      "name": "SWEAT",
+      "logo_url": "https://cryptofonts.com/img/icons/sweat.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "SWFTC": {
+      "symbol": "SWFTC",
+      "name": "SWFTCOIN",
+      "logo_url": "https://cryptofonts.com/img/icons/swftc.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "T": {
+      "symbol": "T",
+      "name": "Threshold Network",
+      "logo_url": "https://cryptofonts.com/img/icons/t.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TNSR": {
+      "symbol": "TNSR",
+      "name": "Tensorium",
+      "logo_url": "https://cryptofonts.com/img/icons/tnsr.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TRA": {
+      "symbol": "TRA",
+      "name": "Trabzonspor Fan Token",
+      "logo_url": "https://cryptofonts.com/img/icons/tra.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TRB": {
+      "symbol": "TRB",
+      "name": "Tellor Tributes",
+      "logo_url": "https://cryptofonts.com/img/icons/trb.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "TRY": {
+      "symbol": "TRY",
+      "name": "TryHards",
+      "logo_url": "https://cryptofonts.com/img/icons/try.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ULTI": {
+      "symbol": "ULTI",
+      "name": "Ultiverse",
+      "logo_url": "https://cryptofonts.com/img/icons/ulti.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "UMA": {
+      "symbol": "UMA",
+      "name": "UMA",
+      "logo_url": "https://cryptofonts.com/img/icons/uma.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "USD": {
+      "symbol": "USD",
+      "name": "USD",
+      "logo_url": "https://cryptofonts.com/img/icons/usd.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "USTC": {
+      "symbol": "USTC",
+      "name": "Wrapped USTC",
+      "logo_url": "https://cryptofonts.com/img/icons/ustc.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "UXLINK": {
+      "symbol": "UXLINK",
+      "name": "UXLINK",
+      "logo_url": "https://cryptofonts.com/img/icons/uxlink.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "VELO": {
+      "symbol": "VELO",
+      "name": "Velodrome Finance",
+      "logo_url": "https://cryptofonts.com/img/icons/velo.svg",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "VELODROME": {
+      "symbol": "VELODROME",
+      "name": "VELODROME",
+      "logo_url": "https://cryptofonts.com/img/icons/velodrome.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "VINE": {
+      "symbol": "VINE",
+      "name": "Vine",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/53859/large/vine.jpg?1737613523",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "VRA": {
+      "symbol": "VRA",
+      "name": "Verasity",
+      "logo_url": "https://cryptofonts.com/img/icons/vra.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "WAXP": {
+      "symbol": "WAXP",
+      "name": "WAX",
+      "logo_url": "https://cryptofonts.com/img/icons/waxp.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "WCT": {
+      "symbol": "WCT",
+      "name": "WalletConnect Token",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/50390/large/wc-token1.png?1727569464",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "WIN": {
+      "symbol": "WIN",
+      "name": "WINkLink BSC",
+      "logo_url": "https://cryptofonts.com/img/icons/win.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "WOO": {
+      "symbol": "WOO",
+      "name": "WOO",
+      "logo_url": "https://cryptofonts.com/img/icons/woo.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "X": {
+      "symbol": "X",
+      "name": "x (XRC-20)",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/34431/large/Screenshot_2024-01-04_at_7.51.08_PM.png?1704868203",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "XCH": {
+      "symbol": "XCH",
+      "name": "Chia",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/15174/large/zV5K5y9f_400x400.png?1696514829",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "YGG": {
+      "symbol": "YGG",
+      "name": "Yield Guild Games",
+      "logo_url": "https://cryptofonts.com/img/icons/ygg.svg",
+      "category": "defi",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ZENT": {
+      "symbol": "ZENT",
+      "name": "ZENTU",
+      "logo_url": "https://cryptofonts.com/img/icons/zent.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ZETA": {
+      "symbol": "ZETA",
+      "name": "ZetaChain",
+      "logo_url": "https://cryptofonts.com/img/icons/zeta.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ZEUS": {
+      "symbol": "ZEUS",
+      "name": "Zeus",
+      "logo_url": "https://cryptofonts.com/img/icons/zeus.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ZIL": {
+      "symbol": "ZIL",
+      "name": "Zilliqa",
+      "logo_url": "https://cryptofonts.com/img/icons/zil.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ZKJ": {
+      "symbol": "ZKJ",
+      "name": "Polyhedra Network",
+      "logo_url": "https://cryptofonts.com/img/icons/zkj.svg",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    },
+    "ZRO": {
+      "symbol": "ZRO",
+      "name": "LayerZero",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
+      "category": "other",
+      "bybit_supported": false,
+      "okx_supported": true
+    }
+  }
+}

@@ -1,0 +1,1771 @@
+{
+  "timestamp": 1751033392,
+  "source": "binance_manual_list_with_coingecko",
+  "total_assets": 101,
+  "exchange": "binance",
+  "assets": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "coingecko_id": "bitcoin",
+      "description": "Bitcoin is the first successful internet money based on peer-to-peer technology; whereby no central bank or authority is involved in the transaction and production of the Bitcoin currency. It was crea...",
+      "homepage": "http://www.bitcoin.org",
+      "blockchain_site": [
+        "https://mempool.space/",
+        "https://platform.arkhamintelligence.com/explorer/token/bitcoin",
+        "https://blockchair.com/bitcoin/",
+        "https://btc.com/",
+        "https://btc.tokenview.io/",
+        "https://www.oklink.com/btc",
+        "https://3xpl.com/bitcoin"
+      ],
+      "market_cap_rank": 1,
+      "current_price": 107010,
+      "market_cap": 2126026159406,
+      "total_volume": 23879791691,
+      "price_change_24h": 0.02028,
+      "categories": [
+        "Smart Contract Platform",
+        "Layer 1 (L1)",
+        "FTX Holdings",
+        "Proof of Work (PoW)",
+        "Bitcoin Ecosystem",
+        "GMCI 30 Index",
+        "GMCI Index",
+        "Coinbase 50 Index"
+      ],
+      "logo_path": "/workspace/imgs/binance_logos/btc.png",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BTCUSDT",
+        "BTCBUSD",
+        "BTCBTC",
+        "BTCETH"
+      ]
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "coingecko_id": "ethereum",
+      "description": "Ethereum is a global, open-source platform for decentralized applications. In other words, the vision is to create a world computer that anyone can build applications in a decentralized manner; while ...",
+      "homepage": "https://www.ethereum.org/",
+      "blockchain_site": [
+        "https://etherscan.io/",
+        "https://platform.arkhamintelligence.com/explorer/token/ethereum",
+        "https://ethplorer.io/",
+        "https://blockchair.com/ethereum",
+        "https://eth.tokenview.io/",
+        "https://www.oklink.com/eth",
+        "https://3xpl.com/ethereum"
+      ],
+      "market_cap_rank": 2,
+      "current_price": 2432.06,
+      "market_cap": 293378686858,
+      "total_volume": 14318302019,
+      "price_change_24h": 0.04141,
+      "categories": [
+        "Smart Contract Platform",
+        "Layer 1 (L1)",
+        "Ethereum Ecosystem",
+        "FTX Holdings",
+        "Multicoin Capital Portfolio",
+        "Proof of Stake (PoS)",
+        "Alameda Research Portfolio",
+        "Andreessen Horowitz (a16z) Portfolio",
+        "GMCI Layer 1 Index",
+        "GMCI 30 Index",
+        "Delphi Ventures Portfolio",
+        "Galaxy Digital Portfolio",
+        "GMCI Index",
+        "World Liberty Financial Portfolio",
+        "Coinbase 50 Index"
+      ],
+      "logo_path": "/workspace/imgs/binance_logos/eth.png",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/279/large/ethereum.png?1696501628",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ETHUSDT",
+        "ETHBUSD",
+        "ETHBTC",
+        "ETHETH"
+      ]
+    },
+    {
+      "symbol": "USDT",
+      "name": "Tether",
+      "coingecko_id": "tether",
+      "description": "Tether (USDT) is a cryptocurrency with a value meant to mirror the value of the U.S. dollar. The idea was to create a stable cryptocurrency that can be used like digital dollars. Coins that serve this...",
+      "homepage": "https://tether.to/",
+      "blockchain_site": [
+        "https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "https://platform.arkhamintelligence.com/explorer/token/tether",
+        "https://ethplorer.io/address/0xdac17f958d2ee523a2206206994597c13d831ec7",
+        "https://explorer.kava.io/token/0x919c1c267bc06a7039e03fcc2ef738525769109c",
+        "https://avascan.info/blockchain/c/address/0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7/token",
+        "https://solscan.io/token/es9vmfrzacermjfrf4h2fyd4kconky11mcce8benwnyb",
+        "https://nearblocks.io/token/usdt.tether-token.near",
+        "https://tonscan.org/address/EQCxE6mUtQJKFnGfaROTKOt1lZbDiiX1kCixRv7Nw2Id_sDs",
+        "https://celoscan.io/token/0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e",
+        "https://explorer.celo.org/mainnet/token/0x48065fbbe25f71c9282ddf5e1cd6d6a887483d5e"
+      ],
+      "market_cap_rank": 3,
+      "current_price": 1.0,
+      "market_cap": 157520144316,
+      "total_volume": 41244570960,
+      "price_change_24h": 2e-05,
+      "categories": [
+        "Stablecoins",
+        "USD Stablecoin",
+        "Solana Ecosystem",
+        "Avalanche Ecosystem",
+        "Near Protocol Ecosystem",
+        "Celo Ecosystem",
+        "Ethereum Ecosystem",
+        "Kaia Ecosystem",
+        "Aptos Ecosystem",
+        "FTX Holdings",
+        "TON Ecosystem",
+        "Tron Ecosystem",
+        "Kava Ecosystem",
+        "Fiat-backed Stablecoin",
+        "World Liberty Financial Portfolio"
+      ],
+      "logo_path": "/workspace/imgs/binance_logos/usdt.png",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/325/large/Tether.png?1696501661",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "USDTUSDT",
+        "USDTBUSD",
+        "USDTBTC",
+        "USDTETH"
+      ]
+    },
+    {
+      "symbol": "BNB",
+      "name": "BNB",
+      "coingecko_id": "binancecoin",
+      "description": "Binance Coin is the cryptocurrency of the Binance platform. It is a trading platform exclusively for cryptocurrencies. The name \"Binance\" is a combination of binary and finance.\r\n\r\nThus, the startup n...",
+      "homepage": "https://www.binance.com",
+      "blockchain_site": [
+        "https://bscscan.com",
+        "https://platform.arkhamintelligence.com/explorer/token/binancecoin",
+        "https://explorer.binance.org/",
+        "https://binance.mintscan.io/",
+        "https://etherscan.io/token/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+        "https://ethplorer.io/address/0xb8c77482e45f1f44de1745f52c74426c631bdd52",
+        "https://www.oklink.com/bsc",
+        "https://3xpl.com/bnb"
+      ],
+      "market_cap_rank": 5,
+      "current_price": 647.15,
+      "market_cap": 94411698954,
+      "total_volume": 558463756,
+      "price_change_24h": 0.65316,
+      "categories": [
+        "Smart Contract Platform",
+        "Exchange-based Tokens",
+        "BNB Chain Ecosystem",
+        "Centralized Exchange (CEX) Token",
+        "Layer 1 (L1)",
+        "Ethereum Ecosystem",
+        "Alleged SEC Securities",
+        "FTX Holdings",
+        "Proof of Stake (PoS)",
+        "GMCI Layer 1 Index",
+        "GMCI 30 Index",
+        "GMCI Index"
+      ],
+      "logo_path": "/workspace/imgs/binance_logos/bnb.png",
+      "logo_url": "https://coin-images.coingecko.com/coins/images/825/large/bnb-icon2_2x.png?1696501970",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BNBUSDT",
+        "BNBBUSD",
+        "BNBBTC",
+        "BNBETH"
+      ]
+    },
+    {
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "coingecko_id": "usd-coin",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "USDCUSDT",
+        "USDCBUSD",
+        "USDCBTC",
+        "USDCETH"
+      ]
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "coingecko_id": "ripple",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "XRPUSDT",
+        "XRPBUSD",
+        "XRPBTC",
+        "XRPETH"
+      ]
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "coingecko_id": "cardano",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ADAUSDT",
+        "ADABUSD",
+        "ADABTC",
+        "ADAETH"
+      ]
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "coingecko_id": "solana",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SOLUSDT",
+        "SOLBUSD",
+        "SOLBTC",
+        "SOLETH"
+      ]
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "coingecko_id": "polkadot",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "DOTUSDT",
+        "DOTBUSD",
+        "DOTBTC",
+        "DOTETH"
+      ]
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon",
+      "coingecko_id": "matic-network",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "MATICUSDT",
+        "MATICBUSD",
+        "MATICBTC",
+        "MATICETH"
+      ]
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "coingecko_id": "chainlink",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "LINKUSDT",
+        "LINKBUSD",
+        "LINKBTC",
+        "LINKETH"
+      ]
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "coingecko_id": "uniswap",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "UNIUSDT",
+        "UNIBUSD",
+        "UNIBTC",
+        "UNIETH"
+      ]
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "coingecko_id": "aave",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "AAVEUSDT",
+        "AAVEBUSD",
+        "AAVEBTC",
+        "AAVEETH"
+      ]
+    },
+    {
+      "symbol": "COMP",
+      "name": "Compound",
+      "coingecko_id": "compound-governance-token",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "COMPUSDT",
+        "COMPBUSD",
+        "COMPBTC",
+        "COMPETH"
+      ]
+    },
+    {
+      "symbol": "MKR",
+      "name": "Maker",
+      "coingecko_id": "maker",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "MKRUSDT",
+        "MKRBUSD",
+        "MKRBTC",
+        "MKRETH"
+      ]
+    },
+    {
+      "symbol": "CRV",
+      "name": "Curve DAO Token",
+      "coingecko_id": "curve-dao-token",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "CRVUSDT",
+        "CRVBUSD",
+        "CRVBTC",
+        "CRVETH"
+      ]
+    },
+    {
+      "symbol": "YFI",
+      "name": "yearn.finance",
+      "coingecko_id": "yearn-finance",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "YFIUSDT",
+        "YFIBUSD",
+        "YFIBTC",
+        "YFIETH"
+      ]
+    },
+    {
+      "symbol": "SUSHI",
+      "name": "SushiSwap",
+      "coingecko_id": "sushi",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SUSHIUSDT",
+        "SUSHIBUSD",
+        "SUSHIBTC",
+        "SUSHIETH"
+      ]
+    },
+    {
+      "symbol": "1INCH",
+      "name": "1inch Network",
+      "coingecko_id": "1inch",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "1INCHUSDT",
+        "1INCHBUSD",
+        "1INCHBTC",
+        "1INCHETH"
+      ]
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "coingecko_id": "avalanche-2",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "AVAXUSDT",
+        "AVAXBUSD",
+        "AVAXBTC",
+        "AVAXETH"
+      ]
+    },
+    {
+      "symbol": "SNX",
+      "name": "Synthetix",
+      "coingecko_id": "havven",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SNXUSDT",
+        "SNXBUSD",
+        "SNXBTC",
+        "SNXETH"
+      ]
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "coingecko_id": "cosmos",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ATOMUSDT",
+        "ATOMBUSD",
+        "ATOMBTC",
+        "ATOMETH"
+      ]
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "coingecko_id": "algorand",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ALGOUSDT",
+        "ALGOBUSD",
+        "ALGOBTC",
+        "ALGOETH"
+      ]
+    },
+    {
+      "symbol": "VET",
+      "name": "VeChain",
+      "coingecko_id": "vechain",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "VETUSDT",
+        "VETBUSD",
+        "VETBTC",
+        "VETETH"
+      ]
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "coingecko_id": "internet-computer",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ICPUSDT",
+        "ICPBUSD",
+        "ICPBTC",
+        "ICPETH"
+      ]
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "coingecko_id": "filecoin",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "FILUSDT",
+        "FILBUSD",
+        "FILBTC",
+        "FILETH"
+      ]
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "coingecko_id": "tron",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "TRXUSDT",
+        "TRXBUSD",
+        "TRXBTC",
+        "TRXETH"
+      ]
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "coingecko_id": "ethereum-classic",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ETCUSDT",
+        "ETCBUSD",
+        "ETCBTC",
+        "ETCETH"
+      ]
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "coingecko_id": "near",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "NEARUSDT",
+        "NEARBUSD",
+        "NEARBTC",
+        "NEARETH"
+      ]
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "coingecko_id": "stellar",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "XLMUSDT",
+        "XLMBUSD",
+        "XLMBTC",
+        "XLMETH"
+      ]
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "coingecko_id": "litecoin",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "LTCUSDT",
+        "LTCBUSD",
+        "LTCBTC",
+        "LTCETH"
+      ]
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "coingecko_id": "bitcoin-cash",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BCHUSDT",
+        "BCHBUSD",
+        "BCHBTC",
+        "BCHETH"
+      ]
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "coingecko_id": "monero",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "XMRUSDT",
+        "XMRBUSD",
+        "XMRBTC",
+        "XMRETH"
+      ]
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "coingecko_id": "dash",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "DASHUSDT",
+        "DASHBUSD",
+        "DASHBTC",
+        "DASHETH"
+      ]
+    },
+    {
+      "symbol": "EOS",
+      "name": "EOS",
+      "coingecko_id": "eos",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "EOSUSDT",
+        "EOSBUSD",
+        "EOSBTC",
+        "EOSETH"
+      ]
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "coingecko_id": "zcash",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ZECUSDT",
+        "ZECBUSD",
+        "ZECBTC",
+        "ZECETH"
+      ]
+    },
+    {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "coingecko_id": "the-sandbox",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SANDUSDT",
+        "SANDBUSD",
+        "SANDBTC",
+        "SANDETH"
+      ]
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "coingecko_id": "apecoin",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "APEUSDT",
+        "APEBUSD",
+        "APEBTC",
+        "APEETH"
+      ]
+    },
+    {
+      "symbol": "MANA",
+      "name": "Decentraland",
+      "coingecko_id": "decentraland",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "MANAUSDT",
+        "MANABUSD",
+        "MANABTC",
+        "MANAETH"
+      ]
+    },
+    {
+      "symbol": "AXS",
+      "name": "Axie Infinity",
+      "coingecko_id": "axie-infinity",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "AXSUSDT",
+        "AXSBUSD",
+        "AXSBTC",
+        "AXSETH"
+      ]
+    },
+    {
+      "symbol": "CHZ",
+      "name": "Chiliz",
+      "coingecko_id": "chiliz",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "CHZUSDT",
+        "CHZBUSD",
+        "CHZBTC",
+        "CHZETH"
+      ]
+    },
+    {
+      "symbol": "ENJ",
+      "name": "Enjin Coin",
+      "coingecko_id": "enjincoin",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ENJUSDT",
+        "ENJBUSD",
+        "ENJBTC",
+        "ENJETH"
+      ]
+    },
+    {
+      "symbol": "IMX",
+      "name": "Immutable X",
+      "coingecko_id": "immutable-x",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "IMXUSDT",
+        "IMXBUSD",
+        "IMXBTC",
+        "IMXETH"
+      ]
+    },
+    {
+      "symbol": "FLOW",
+      "name": "Flow",
+      "coingecko_id": "flow",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "FLOWUSDT",
+        "FLOWBUSD",
+        "FLOWBTC",
+        "FLOWETH"
+      ]
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "coingecko_id": "dogecoin",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "DOGEUSDT",
+        "DOGEBUSD",
+        "DOGEBTC",
+        "DOGEETH"
+      ]
+    },
+    {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "coingecko_id": "shiba-inu",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SHIBUSDT",
+        "SHIBBUSD",
+        "SHIBBTC",
+        "SHIBETH"
+      ]
+    },
+    {
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "coingecko_id": "pepe",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "PEPEUSDT",
+        "PEPEBUSD",
+        "PEPEBTC",
+        "PEPEETH"
+      ]
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "coingecko_id": "floki",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "FLOKIUSDT",
+        "FLOKIBUSD",
+        "FLOKIBTC",
+        "FLOKIETH"
+      ]
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "coingecko_id": "arbitrum",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ARBUSDT",
+        "ARBBUSD",
+        "ARBBTC",
+        "ARBETH"
+      ]
+    },
+    {
+      "symbol": "OP",
+      "name": "Optimism",
+      "coingecko_id": "optimism",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "OPUSDT",
+        "OPBUSD",
+        "OPBTC",
+        "OPETH"
+      ]
+    },
+    {
+      "symbol": "LDO",
+      "name": "Lido DAO",
+      "coingecko_id": "lido-dao",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "LDOUSDT",
+        "LDOBUSD",
+        "LDOBTC",
+        "LDOETH"
+      ]
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "coingecko_id": "sui",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SUIUSDT",
+        "SUIBUSD",
+        "SUIBTC",
+        "SUIETH"
+      ]
+    },
+    {
+      "symbol": "APT",
+      "name": "Aptos",
+      "coingecko_id": "aptos",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "APTUSDT",
+        "APTBUSD",
+        "APTBTC",
+        "APTETH"
+      ]
+    },
+    {
+      "symbol": "SEI",
+      "name": "Sei",
+      "coingecko_id": "sei-network",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SEIUSDT",
+        "SEIBUSD",
+        "SEIBTC",
+        "SEIETH"
+      ]
+    },
+    {
+      "symbol": "FTT",
+      "name": "FTX Token",
+      "coingecko_id": "ftx-token",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "FTTUSDT",
+        "FTTBUSD",
+        "FTTBTC",
+        "FTTETH"
+      ]
+    },
+    {
+      "symbol": "CRO",
+      "name": "Cronos",
+      "coingecko_id": "crypto-com-chain",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "CROUSDT",
+        "CROBUSD",
+        "CROBTC",
+        "CROETH"
+      ]
+    },
+    {
+      "symbol": "LEO",
+      "name": "UNUS SED LEO",
+      "coingecko_id": "leo-token",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "LEOUSDT",
+        "LEOBUSD",
+        "LEOBTC",
+        "LEOETH"
+      ]
+    },
+    {
+      "symbol": "FET",
+      "name": "Fetch.ai",
+      "coingecko_id": "fetch-ai",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "FETUSDT",
+        "FETBUSD",
+        "FETBTC",
+        "FETETH"
+      ]
+    },
+    {
+      "symbol": "OCEAN",
+      "name": "Ocean Protocol",
+      "coingecko_id": "ocean-protocol",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "OCEANUSDT",
+        "OCEANBUSD",
+        "OCEANBTC",
+        "OCEANETH"
+      ]
+    },
+    {
+      "symbol": "AGIX",
+      "name": "SingularityNET",
+      "coingecko_id": "singularitynet",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "AGIXUSDT",
+        "AGIXBUSD",
+        "AGIXBTC",
+        "AGIXETH"
+      ]
+    },
+    {
+      "symbol": "BAND",
+      "name": "Band Protocol",
+      "coingecko_id": "band-protocol",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BANDUSDT",
+        "BANDBUSD",
+        "BANDBTC",
+        "BANDETH"
+      ]
+    },
+    {
+      "symbol": "API3",
+      "name": "API3",
+      "coingecko_id": "api3",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "API3USDT",
+        "API3BUSD",
+        "API3BTC",
+        "API3ETH"
+      ]
+    },
+    {
+      "symbol": "SCRT",
+      "name": "Secret",
+      "coingecko_id": "secret",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "SCRTUSDT",
+        "SCRTBUSD",
+        "SCRTBTC",
+        "SCRTETH"
+      ]
+    },
+    {
+      "symbol": "AR",
+      "name": "Arweave",
+      "coingecko_id": "arweave",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ARUSDT",
+        "ARBUSD",
+        "ARBTC",
+        "ARETH"
+      ]
+    },
+    {
+      "symbol": "STORJ",
+      "name": "Storj",
+      "coingecko_id": "storj",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "STORJUSDT",
+        "STORJBUSD",
+        "STORJBTC",
+        "STORJETH"
+      ]
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "coingecko_id": "basic-attention-token",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BATUSDT",
+        "BATBUSD",
+        "BATBTC",
+        "BATETH"
+      ]
+    },
+    {
+      "symbol": "ENS",
+      "name": "Ethereum Name Service",
+      "coingecko_id": "ethereum-name-service",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ENSUSDT",
+        "ENSBUSD",
+        "ENSBTC",
+        "ENSETH"
+      ]
+    },
+    {
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "coingecko_id": "binance-usd",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BUSDUSDT",
+        "BUSDBUSD",
+        "BUSDBTC",
+        "BUSDETH"
+      ]
+    },
+    {
+      "symbol": "DAI",
+      "name": "Dai",
+      "coingecko_id": "dai",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "DAIUSDT",
+        "DAIBUSD",
+        "DAIBTC",
+        "DAIETH"
+      ]
+    },
+    {
+      "symbol": "FRAX",
+      "name": "Frax",
+      "coingecko_id": "frax",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "FRAXUSDT",
+        "FRAXBUSD",
+        "FRAXBTC",
+        "FRAXETH"
+      ]
+    },
+    {
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "coingecko_id": "true-usd",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "TUSDUSDT",
+        "TUSDBUSD",
+        "TUSDBTC",
+        "TUSDETH"
+      ]
+    },
+    {
+      "symbol": "KAVA",
+      "name": "Kava",
+      "coingecko_id": "kava",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "KAVAUSDT",
+        "KAVABUSD",
+        "KAVABTC",
+        "KAVAETH"
+      ]
+    },
+    {
+      "symbol": "ONE",
+      "name": "Harmony",
+      "coingecko_id": "harmony",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ONEUSDT",
+        "ONEBUSD",
+        "ONEBTC",
+        "ONEETH"
+      ]
+    },
+    {
+      "symbol": "ROSE",
+      "name": "Oasis Network",
+      "coingecko_id": "oasis-network",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ROSEUSDT",
+        "ROSEBUSD",
+        "ROSEBTC",
+        "ROSEETH"
+      ]
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "coingecko_id": "hedera-hashgraph",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "HBARUSDT",
+        "HBARBUSD",
+        "HBARBTC",
+        "HBARETH"
+      ]
+    },
+    {
+      "symbol": "XTZ",
+      "name": "Tezos",
+      "coingecko_id": "tezos",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "XTZUSDT",
+        "XTZBUSD",
+        "XTZBTC",
+        "XTZETH"
+      ]
+    },
+    {
+      "symbol": "EGLD",
+      "name": "MultiversX",
+      "coingecko_id": "elrond-erd-2",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "EGLDUSDT",
+        "EGLDBUSD",
+        "EGLDBTC",
+        "EGLDETH"
+      ]
+    },
+    {
+      "symbol": "THETA",
+      "name": "THETA",
+      "coingecko_id": "theta-token",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "THETAUSDT",
+        "THETABUSD",
+        "THETABTC",
+        "THETAETH"
+      ]
+    },
+    {
+      "symbol": "RUNE",
+      "name": "THORChain",
+      "coingecko_id": "thorchain",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "RUNEUSDT",
+        "RUNEBUSD",
+        "RUNEBTC",
+        "RUNEETH"
+      ]
+    },
+    {
+      "symbol": "MINA",
+      "name": "Mina",
+      "coingecko_id": "mina-protocol",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "MINAUSDT",
+        "MINABUSD",
+        "MINABTC",
+        "MINAETH"
+      ]
+    },
+    {
+      "symbol": "IOTA",
+      "name": "IOTA",
+      "coingecko_id": "iota",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "IOTAUSDT",
+        "IOTABUSD",
+        "IOTABTC",
+        "IOTAETH"
+      ]
+    },
+    {
+      "symbol": "NEO",
+      "name": "Neo",
+      "coingecko_id": "neo",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "NEOUSDT",
+        "NEOBUSD",
+        "NEOBTC",
+        "NEOETH"
+      ]
+    },
+    {
+      "symbol": "QTUM",
+      "name": "Qtum",
+      "coingecko_id": "qtum",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "QTUMUSDT",
+        "QTUMBUSD",
+        "QTUMBTC",
+        "QTUMETH"
+      ]
+    },
+    {
+      "symbol": "WAVES",
+      "name": "Waves",
+      "coingecko_id": "waves",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "WAVESUSDT",
+        "WAVESBUSD",
+        "WAVESBTC",
+        "WAVESETH"
+      ]
+    },
+    {
+      "symbol": "ZIL",
+      "name": "Zilliqa",
+      "coingecko_id": "zilliqa",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ZILUSDT",
+        "ZILBUSD",
+        "ZILBTC",
+        "ZILETH"
+      ]
+    },
+    {
+      "symbol": "ICX",
+      "name": "ICON",
+      "coingecko_id": "icon",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ICXUSDT",
+        "ICXBUSD",
+        "ICXBTC",
+        "ICXETH"
+      ]
+    },
+    {
+      "symbol": "ONT",
+      "name": "Ontology",
+      "coingecko_id": "ontology",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ONTUSDT",
+        "ONTBUSD",
+        "ONTBTC",
+        "ONTETH"
+      ]
+    },
+    {
+      "symbol": "ZRX",
+      "name": "0x",
+      "coingecko_id": "0x",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ZRXUSDT",
+        "ZRXBUSD",
+        "ZRXBTC",
+        "ZRXETH"
+      ]
+    },
+    {
+      "symbol": "BAL",
+      "name": "Balancer",
+      "coingecko_id": "balancer",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BALUSDT",
+        "BALBUSD",
+        "BALBTC",
+        "BALETH"
+      ]
+    },
+    {
+      "symbol": "KNC",
+      "name": "Kyber Network Crystal v2",
+      "coingecko_id": "kyber-network-crystal",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "KNCUSDT",
+        "KNCBUSD",
+        "KNCBTC",
+        "KNCETH"
+      ]
+    },
+    {
+      "symbol": "REN",
+      "name": "Ren",
+      "coingecko_id": "republic-protocol",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "RENUSDT",
+        "RENBUSD",
+        "RENBTC",
+        "RENETH"
+      ]
+    },
+    {
+      "symbol": "REP",
+      "name": "Augur",
+      "coingecko_id": "augur",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "REPUSDT",
+        "REPBUSD",
+        "REPBTC",
+        "REPETH"
+      ]
+    },
+    {
+      "symbol": "LRC",
+      "name": "Loopring",
+      "coingecko_id": "loopring",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "LRCUSDT",
+        "LRCBUSD",
+        "LRCBTC",
+        "LRCETH"
+      ]
+    },
+    {
+      "symbol": "IOTX",
+      "name": "IoTeX",
+      "coingecko_id": "iotex",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "IOTXUSDT",
+        "IOTXBUSD",
+        "IOTXBTC",
+        "IOTXETH"
+      ]
+    },
+    {
+      "symbol": "CTK",
+      "name": "CertiK",
+      "coingecko_id": "certik",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "CTKUSDT",
+        "CTKBUSD",
+        "CTKBTC",
+        "CTKETH"
+      ]
+    },
+    {
+      "symbol": "ONG",
+      "name": "Ontology Gas",
+      "coingecko_id": "ontology-gas",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "ONGUSDT",
+        "ONGBUSD",
+        "ONGBTC",
+        "ONGETH"
+      ]
+    },
+    {
+      "symbol": "HOT",
+      "name": "Holo",
+      "coingecko_id": "holotoken",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "HOTUSDT",
+        "HOTBUSD",
+        "HOTBTC",
+        "HOTETH"
+      ]
+    },
+    {
+      "symbol": "WIN",
+      "name": "WINkLink",
+      "coingecko_id": "wink",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "WINUSDT",
+        "WINBUSD",
+        "WINBTC",
+        "WINETH"
+      ]
+    },
+    {
+      "symbol": "BTT",
+      "name": "BitTorrent",
+      "coingecko_id": "bittorrent",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "BTTUSDT",
+        "BTTBUSD",
+        "BTTBTC",
+        "BTTETH"
+      ]
+    },
+    {
+      "symbol": "NPXS",
+      "name": "Pundi X",
+      "coingecko_id": "pundi-x",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "NPXSUSDT",
+        "NPXSBUSD",
+        "NPXSBTC",
+        "NPXSETH"
+      ]
+    },
+    {
+      "symbol": "FUN",
+      "name": "FunFair",
+      "coingecko_id": "funfair",
+      "exchange": "binance",
+      "status": "active",
+      "spot_trading": true,
+      "margin_trading": true,
+      "futures_trading": true,
+      "popular_pairs": [
+        "FUNUSDT",
+        "FUNBUSD",
+        "FUNBTC",
+        "FUNETH"
+      ]
+    }
+  ],
+  "metadata": {
+    "description": "Liste complète des cryptomonnaies populaires disponibles sur Binance",
+    "data_sources": [
+      "coingecko_api",
+      "binance_manual_list"
+    ],
+    "features": [
+      "logos",
+      "market_data",
+      "descriptions",
+      "trading_pairs"
+    ]
+  }
+}

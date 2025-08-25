@@ -1,0 +1,214 @@
+{
+  "favorites": [
+    {
+      "symbol": "EUR/USD",
+      "price": "1.15213",
+      "change": "+0.0012",
+      "changePercent": "+0.10",
+      "spread": "0.8",
+      "volume": "High"
+    },
+    {
+      "symbol": "GBP/USD",
+      "price": "1.27845",
+      "change": "-0.0045",
+      "changePercent": "-0.35",
+      "spread": "1.2",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "USD/JPY",
+      "price": "155.234",
+      "change": "+0.567",
+      "changePercent": "+0.37",
+      "spread": "0.9",
+      "volume": "High"
+    },
+    {
+      "symbol": "USD/CNY",
+      "price": "7.1856",
+      "change": "+0.0145",
+      "changePercent": "+0.20",
+      "spread": "1.5",
+      "volume": "High"
+    }
+  ],
+  "hot": [
+    {
+      "symbol": "EUR/USD",
+      "price": "1.15213",
+      "change": "+0.0012",
+      "changePercent": "+0.10",
+      "spread": "0.8",
+      "volume": "High"
+    },
+    {
+      "symbol": "GBP/USD",
+      "price": "1.27845",
+      "change": "-0.0045",
+      "changePercent": "-0.35",
+      "spread": "1.2",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "USD/CAD",
+      "price": "1.43567",
+      "change": "+0.0089",
+      "changePercent": "+0.62",
+      "spread": "1.5",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "AUD/USD",
+      "price": "0.64321",
+      "change": "-0.0023",
+      "changePercent": "-0.36",
+      "spread": "1.1",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "EUR/CNY",
+      "price": "8.2734",
+      "change": "+0.0567",
+      "changePercent": "+0.69",
+      "spread": "2.0",
+      "volume": "Medium"
+    }
+  ],
+  "new": [
+    {
+      "symbol": "USD/CNH",
+      "price": "7.2456",
+      "change": "+0.0234",
+      "changePercent": "+0.32",
+      "spread": "2.1",
+      "volume": "Low"
+    },
+    {
+      "symbol": "EUR/CHF",
+      "price": "0.9356",
+      "change": "-0.0012",
+      "changePercent": "-0.13",
+      "spread": "1.8",
+      "volume": "Low"
+    },
+    {
+      "symbol": "GBP/CNY",
+      "price": "9.1923",
+      "change": "+0.0387",
+      "changePercent": "+0.42",
+      "spread": "2.5",
+      "volume": "Low"
+    },
+    {
+      "symbol": "CNY/JPY",
+      "price": "21.598",
+      "change": "+0.234",
+      "changePercent": "+1.10",
+      "spread": "2.8",
+      "volume": "Low"
+    }
+  ],
+  "gainers": [
+    {
+      "symbol": "CNY/JPY",
+      "price": "21.598",
+      "change": "+0.234",
+      "changePercent": "+1.10",
+      "spread": "2.8",
+      "volume": "Low"
+    },
+    {
+      "symbol": "EUR/CNY",
+      "price": "8.2734",
+      "change": "+0.0567",
+      "changePercent": "+0.69",
+      "spread": "2.0",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "USD/CAD",
+      "price": "1.43567",
+      "change": "+0.0089",
+      "changePercent": "+0.62",
+      "spread": "1.5",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "USD/JPY",
+      "price": "155.234",
+      "change": "+0.567",
+      "changePercent": "+0.37",
+      "spread": "0.9",
+      "volume": "High"
+    },
+    {
+      "symbol": "USD/CNH",
+      "price": "7.2456",
+      "change": "+0.0234",
+      "changePercent": "+0.32",
+      "spread": "2.1",
+      "volume": "Low"
+    }
+  ],
+  "losers": [
+    {
+      "symbol": "GBP/USD",
+      "price": "1.27845",
+      "change": "-0.0045",
+      "changePercent": "-0.35",
+      "spread": "1.2",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "AUD/USD",
+      "price": "0.64321",
+      "change": "-0.0023",
+      "changePercent": "-0.36",
+      "spread": "1.1",
+      "volume": "Medium"
+    },
+    {
+      "symbol": "EUR/CHF",
+      "price": "0.9356",
+      "change": "-0.0012",
+      "changePercent": "-0.13",
+      "spread": "1.8",
+      "volume": "Low"
+    }
+  ],
+  "volume": [
+    {
+      "symbol": "EUR/USD",
+      "price": "1.15213",
+      "change": "+0.0012",
+      "changePercent": "+0.10",
+      "spread": "0.8",
+      "volume": "High"
+    },
+    {
+      "symbol": "USD/JPY",
+      "price": "155.234",
+      "change": "+0.567",
+      "changePercent": "+0.37",
+      "spread": "0.9",
+      "volume": "High"
+    },
+    {
+      "symbol": "USD/CNY",
+      "price": "7.1856",
+      "change": "+0.0145",
+      "changePercent": "+0.20",
+      "spread": "1.5",
+      "volume": "High"
+    },
+    {
+      "symbol": "GBP/USD",
+      "price": "1.27845",
+      "change": "-0.0045",
+      "changePercent": "-0.35",
+      "spread": "1.2",
+      "volume": "Medium"
+    }
+  ]
+}
